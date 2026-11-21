@@ -1,0 +1,886 @@
+rank,student_index,p_dropout,true_outcome,risk_tier,top_reasons
+1,3647,0.9958333333333333,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+2,3641,0.9943162393162392,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+3,1359,0.9941666666666666,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+4,56,0.9930555555555556,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 39; Curricular units 2nd sem (approved) = 0
+5,3190,0.9927777777777779,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 29
+6,2504,0.9916666666666667,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+7,3714,0.9900158730158731,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Curricular units 1st sem (approved) = 0
+8,2440,0.9895,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+9,2340,0.9887380952380952,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+10,2253,0.9880555555555555,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 49
+11,972,0.9879444444444444,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 33
+12,2653,0.987388888888889,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 43; Curricular units 2nd sem (approved) = 0
+13,723,0.9858333333333333,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 1; Age at enrollment = 33
+14,4010,0.9856111111111111,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 31; Curricular units 2nd sem (approved) = 0
+15,477,0.9855555555555554,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Age at enrollment = 28
+16,4034,0.9851031746031746,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Age at enrollment = 38
+17,1416,0.984722222222222,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+18,1013,0.9846162393162391,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+19,600,0.9845793650793649,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+20,1613,0.9842222222222222,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 37
+21,2046,0.9842182001005528,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+22,2752,0.9827222222222222,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 48; Curricular units 2nd sem (approved) = 0
+23,734,0.9820238095238096,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 34; Curricular units 2nd sem (approved) = 0
+24,2687,0.9816111111111112,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Curricular units 1st sem (approved) = 0
+25,917,0.9811111111111113,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Age at enrollment = 37
+26,2191,0.9809829059829057,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+27,4306,0.980015873015873,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+28,1365,0.979888888888889,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Curricular units 1st sem (approved) = 0
+29,1748,0.9797222222222223,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Curricular units 1st sem (approved) = 0
+30,3947,0.979722222222222,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+31,2396,0.9795555555555556,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+32,3413,0.978894017094017,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+33,3799,0.9787777777777775,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Curricular units 1st sem (approved) = 0
+34,966,0.9783333333333334,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 28
+35,1410,0.9781111111111112,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 58; Curricular units 2nd sem (approved) = 0
+36,3299,0.9776606837606838,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+37,2581,0.9770000000000001,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+38,1828,0.9769523809523808,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Curricular units 1st sem (approved) = 0
+39,511,0.9765555555555556,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 32
+40,3321,0.976342383107089,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+41,3363,0.9762777777777778,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Curricular units 1st sem (approved) = 0
+42,4181,0.9759999999999999,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Curricular units 1st sem (approved) = 0
+43,3909,0.9758253968253967,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 34; Curricular units 2nd sem (approved) = 0
+44,3089,0.9757086834733892,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+45,2209,0.9737606837606836,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Curricular units 1st sem (approved) = 0
+46,1001,0.9732844932844934,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+47,2523,0.9727380952380954,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+48,1866,0.9708015873015874,Dropout,High,Tuition fees up to date = 0; Curricular units 2nd sem (approved) = 0
+49,2,0.9701019536019534,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+50,566,0.9676984126984128,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+51,2843,0.9673717948717948,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Curricular units 1st sem (approved) = 0
+52,3557,0.9666666666666667,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+53,2020,0.9663492063492064,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+54,3589,0.964030303030303,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+55,4012,0.9636111111111111,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Age at enrollment = 30
+56,3314,0.9633492063492065,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 40
+57,1860,0.9630000000000001,Dropout,High,Debtor = 1; Curricular units 1st sem (approved) = 0; Age at enrollment = 30
+58,2289,0.9606565656565657,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 31; Curricular units 2nd sem (approved) = 0
+59,3866,0.9576666666666667,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+60,3721,0.9564999999999998,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 1; Age at enrollment = 30
+61,2206,0.956157509157509,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+62,3667,0.9544742063492064,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+63,791,0.9518888888888891,Dropout,High,Tuition fees up to date = 0; Age at enrollment = 36; Curricular units 2nd sem (approved) = 0
+64,1728,0.9497857142857143,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+65,3099,0.9496666666666668,Dropout,High,Curricular units 1st sem (approved) = 1; Curricular units 2nd sem (approved) = 0
+66,1208,0.9496428571428572,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 1; Age at enrollment = 28
+67,3487,0.9488162393162393,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+68,2939,0.9477817460317461,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 41; Curricular units 2nd sem (approved) = 0
+69,482,0.9470070889894419,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+70,2407,0.9466269841269841,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Curricular units 1st sem (approved) = 0
+71,1210,0.946452380952381,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 32
+72,4323,0.9437380952380954,Dropout,High,Debtor = 1; Age at enrollment = 28; Curricular units 2nd sem (approved) = 0
+73,536,0.9413373015873014,Dropout,High,Curricular units 1st sem (approved) = 1; Curricular units 2nd sem (approved) = 0
+74,942,0.941111111111111,Enrolled,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 31; Curricular units 2nd sem (approved) = 0
+75,3847,0.9410555555555555,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+76,3797,0.9406825396825398,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+77,4194,0.9402619047619047,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Curricular units 2nd sem (approved) = 0
+78,182,0.9394246309246311,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Curricular units 2nd sem (approved) = 0
+79,2846,0.9389520202020202,Dropout,High,Curricular units 1st sem (approved) = 1; Age at enrollment = 39; Curricular units 2nd sem (approved) = 0
+80,3875,0.9360714285714287,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+81,1862,0.9357698412698412,Dropout,High,Tuition fees up to date = 0; Curricular units 2nd sem (approved) = 0
+82,3934,0.9315992063492063,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+83,2329,0.9298544973544972,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Curricular units 1st sem (approved) = 0
+84,92,0.928753968253968,Dropout,High,Curricular units 2nd sem (approved) = 0
+85,1405,0.9274444444444447,Dropout,High,Debtor = 1; Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+86,1987,0.9267025507172565,Enrolled,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 34; Curricular units 2nd sem (approved) = 0
+87,4169,0.9262460317460318,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+88,3097,0.92465873015873,Dropout,High,Curricular units 2nd sem (approved) = 0
+89,2320,0.924388888888889,Dropout,High,Age at enrollment = 50; Curricular units 2nd sem (approved) = 0
+90,2439,0.9223989898989898,Dropout,High,Curricular units 1st sem (approved) = 1; Age at enrollment = 35; Curricular units 2nd sem (approved) = 0
+91,703,0.9211281866281865,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 32; Curricular units 2nd sem (approved) = 0
+92,838,0.9166428571428571,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+93,4415,0.9083412698412697,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Age at enrollment = 46
+94,4276,0.9060952380952378,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 1; Age at enrollment = 29
+95,4050,0.9054782446311858,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+96,3094,0.9049722222222223,Dropout,High,Curricular units 1st sem (approved) = 1; Curricular units 2nd sem (approved) = 0
+97,1388,0.903095238095238,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+98,3349,0.8990595238095238,Dropout,High,Debtor = 1; Age at enrollment = 32; Curricular units 2nd sem (approved) = 0
+99,3482,0.8985555555555556,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+100,745,0.8962301587301589,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 29
+101,1864,0.8956851851851853,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+102,331,0.8923333333333335,Dropout,High,Debtor = 1; Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+103,2442,0.8896626984126984,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 35
+104,3564,0.8881428571428572,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Curricular units 1st sem (approved) = 0
+105,893,0.8842619047619047,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+106,1572,0.8838367003367004,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 55
+107,2716,0.8779206349206349,Enrolled,High,Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+108,1538,0.8763809523809524,Dropout,High,Tuition fees up to date = 0; Debtor = 1
+109,2801,0.8756613756613755,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+110,2499,0.8698174603174607,Dropout,High,Debtor = 1; Age at enrollment = 40
+111,3719,0.8675026455026452,Dropout,High,Curricular units 2nd sem (approved) = 0
+112,354,0.8650555555555555,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Curricular units 2nd sem (approved) = 0
+113,1582,0.8623888888888888,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 34
+114,1675,0.8562777777777778,Dropout,High,Tuition fees up to date = 0; Curricular units 2nd sem (approved) = 0
+115,2248,0.8553968253968253,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Curricular units 1st sem (approved) = 0
+116,3882,0.8543961038961038,Dropout,High,Tuition fees up to date = 0; Debtor = 1
+117,551,0.8540833333333334,Dropout,High,Tuition fees up to date = 0; Debtor = 1
+118,3699,0.8525343915343915,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+119,2781,0.8507222222222223,Dropout,High,Tuition fees up to date = 0; Debtor = 1
+120,891,0.8484729095576053,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+121,217,0.839595238095238,Dropout,High,Curricular units 1st sem (approved) = 1; Curricular units 2nd sem (approved) = 0
+122,3995,0.8395567580567581,Dropout,High,Curricular units 2nd sem (approved) = 0
+123,3220,0.838359477124183,Dropout,High,Debtor = 1; Curricular units 1st sem (approved) = 1; Curricular units 2nd sem (approved) = 0
+124,3858,0.8305618085618087,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+125,3292,0.830547619047619,Dropout,High,Academic progression variance
+126,4238,0.8290912698412697,Dropout,High,Tuition fees up to date = 0; Debtor = 1
+127,309,0.8285238095238096,Dropout,High,Tuition fees up to date = 0; Debtor = 1
+128,4020,0.8278686868686869,Dropout,High,Curricular units 2nd sem (approved) = 0
+129,3811,0.8173333333333334,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Age at enrollment = 44
+130,3843,0.8152420634920637,Dropout,High,Curricular units 1st sem (approved) = 1
+131,3351,0.8127602707749766,Dropout,High,Curricular units 1st sem (approved) = 1; Age at enrollment = 37
+132,1892,0.8120714285714287,Dropout,High,Curricular units 2nd sem (approved) = 0
+133,2322,0.8117707570207571,Dropout,High,Curricular units 1st sem (approved) = 1; Age at enrollment = 31
+134,1814,0.8092169312169313,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+135,3848,0.8077619047619048,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Age at enrollment = 28
+136,3501,0.7988055555555555,Dropout,High,Debtor = 1; Age at enrollment = 45; Curricular units 2nd sem (approved) = 0
+137,4312,0.7941031746031746,Dropout,High,Tuition fees up to date = 0; Age at enrollment = 32
+138,4220,0.7924004329004332,Dropout,High,Curricular units 2nd sem (approved) = 0
+139,2294,0.7922932431246239,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+140,1378,0.7914444444444443,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Curricular units 1st sem (approved) = 1
+141,3577,0.7899285714285714,Dropout,High,Debtor = 1
+142,3290,0.7880317460317462,Dropout,High,Curricular units 1st sem (approved) = 1; Curricular units 2nd sem (approved) = 0
+143,1360,0.783452380952381,Dropout,High,Curricular units 1st sem (approved) = 1; Curricular units 2nd sem (approved) = 0
+144,2244,0.7822222222222225,Dropout,High,Age at enrollment = 48
+145,1408,0.7804801587301587,Dropout,High,Academic progression variance
+146,939,0.7772936507936508,Dropout,High,Tuition fees up to date = 0; Age at enrollment = 31
+147,4085,0.7743809523809525,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Age at enrollment = 36
+148,3297,0.7697380952380953,Dropout,High,Tuition fees up to date = 0; Debtor = 1
+149,3649,0.7687474747474745,Dropout,High,Academic progression variance
+150,433,0.7637962962962963,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+151,3860,0.7601190476190475,Dropout,High,Curricular units 1st sem (approved) = 1
+152,2282,0.7597936507936509,Dropout,High,Tuition fees up to date = 0; Debtor = 1
+153,2296,0.7531904761904764,Dropout,High,Curricular units 1st sem (approved) = 0
+154,699,0.7526385281385283,Dropout,High,Age at enrollment = 39
+155,562,0.7526031746031746,Dropout,High,Curricular units 1st sem (approved) = 1
+156,3954,0.7518373015873017,Dropout,High,Academic progression variance
+157,1187,0.7496917989417989,Dropout,High,Curricular units 1st sem (approved) = 1
+158,3103,0.747132982292175,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Curricular units 1st sem (approved) = 0
+159,1599,0.7469152236652236,Dropout,High,Debtor = 1
+160,1095,0.7469087301587303,Dropout,High,Tuition fees up to date = 0; Debtor = 1
+161,1375,0.7431975025759375,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+162,955,0.7422976190476192,Dropout,High,Academic progression variance
+163,737,0.7369603174603173,Dropout,High,Age at enrollment = 30
+164,730,0.7297525252525254,Dropout,High,Tuition fees up to date = 0; Debtor = 1
+165,2909,0.7248333333333334,Dropout,High,Tuition fees up to date = 0; Debtor = 1
+166,3572,0.7243373015873017,Dropout,High,Age at enrollment = 28
+167,392,0.7213082010582009,Dropout,High,Tuition fees up to date = 0; Debtor = 1
+168,3896,0.7211111111111114,Enrolled,High,Curricular units 1st sem (approved) = 1; Curricular units 2nd sem (approved) = 0
+169,2192,0.7193494468494469,Dropout,High,Tuition fees up to date = 0; Debtor = 1; Age at enrollment = 35
+170,37,0.7157577455224515,Dropout,High,Curricular units 1st sem (approved) = 1; Age at enrollment = 55
+171,3784,0.7153531746031745,Dropout,High,Age at enrollment = 36
+172,2700,0.7150830763448799,Dropout,High,Debtor = 1; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+173,988,0.7117359307359308,Dropout,High,Academic progression variance
+174,4077,0.7091495726495727,Dropout,High,Curricular units 2nd sem (approved) = 0
+175,4384,0.7072619047619046,Dropout,High,Tuition fees up to date = 0
+176,3927,0.7066428571428572,Dropout,High,Tuition fees up to date = 0; Debtor = 1
+177,3181,0.7040251322751323,Dropout,High,Debtor = 1
+178,2000,0.6982301587301587,Dropout,Medium,Tuition fees up to date = 0; Debtor = 1
+179,3828,0.6932133237133239,Dropout,Medium,Curricular units 1st sem (approved) = 0
+180,133,0.6927417027417027,Dropout,Medium,Curricular units 2nd sem (approved) = 0
+181,871,0.6834267676767674,Dropout,Medium,Curricular units 1st sem (approved) = 1; Age at enrollment = 33
+182,2468,0.6833253968253968,Dropout,Medium,Academic progression variance
+183,597,0.679256613756614,Dropout,Medium,Tuition fees up to date = 0; Debtor = 1; Age at enrollment = 31
+184,2676,0.6781174136321195,Dropout,Medium,Curricular units 1st sem (approved) = 0; Age at enrollment = 43
+185,3518,0.6737777777777778,Dropout,Medium,Academic progression variance
+186,3287,0.6720714285714285,Dropout,Medium,Tuition fees up to date = 0
+187,621,0.6697518037518038,Dropout,Medium,Academic progression variance
+188,3276,0.6675753968253969,Dropout,Medium,Age at enrollment = 34
+189,2203,0.6595921041157702,Dropout,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Age at enrollment = 37
+190,3281,0.6557460317460317,Dropout,Medium,Tuition fees up to date = 0; Age at enrollment = 59
+191,361,0.655559523809524,Dropout,Medium,Debtor = 1
+192,701,0.6511706349206347,Dropout,Medium,Age at enrollment = 49
+193,3076,0.6502429792429794,Dropout,Medium,Academic progression variance
+194,75,0.6492604617604616,Dropout,Medium,Debtor = 1
+195,743,0.648142857142857,Dropout,Medium,Academic progression variance
+196,1463,0.647521164021164,Dropout,Medium,Academic progression variance
+197,122,0.6469723284912371,Dropout,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+198,3723,0.6462619047619045,Dropout,Medium,Debtor = 1; Curricular units 1st sem (approved) = 1
+199,1431,0.6459999999999999,Dropout,Medium,Academic progression variance
+200,510,0.6421725146198831,Enrolled,Medium,Curricular units 2nd sem (approved) = 0
+201,2428,0.6396984126984125,Dropout,Medium,Age at enrollment = 29
+202,1344,0.6328716931216929,Dropout,Medium,Tuition fees up to date = 0; Debtor = 1
+203,3684,0.6281626984126983,Dropout,Medium,Age at enrollment = 30
+204,4322,0.6267568542568542,Dropout,Medium,Tuition fees up to date = 0; Debtor = 1
+205,186,0.6244841269841269,Enrolled,Medium,Tuition fees up to date = 0; Debtor = 1
+206,1688,0.6209879010506583,Enrolled,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+207,3734,0.620320105820106,Dropout,Medium,Academic progression variance
+208,1530,0.6110462962962964,Enrolled,Medium,Age at enrollment = 39
+209,3444,0.6049523809523809,Dropout,Medium,Tuition fees up to date = 0
+210,2472,0.6042380952380951,Dropout,Medium,Academic progression variance
+211,4259,0.600531746031746,Dropout,Medium,Academic progression variance
+212,2198,0.6002738095238093,Dropout,Medium,Academic progression variance
+213,3592,0.5983333333333334,Dropout,Medium,Academic progression variance
+214,3338,0.5957301587301588,Dropout,Medium,Age at enrollment = 28
+215,1732,0.5940039682539684,Dropout,Medium,Debtor = 1; Age at enrollment = 40
+216,4386,0.591311447811448,Dropout,Medium,Academic progression variance
+217,3462,0.5887142857142859,Dropout,Medium,Age at enrollment = 32
+218,3172,0.5863015873015874,Dropout,Medium,Debtor = 1
+219,1731,0.5849239028944911,Dropout,Medium,Tuition fees up to date = 0
+220,4055,0.5751111111111111,Dropout,Medium,Age at enrollment = 28
+221,4358,0.5691785714285715,Dropout,Medium,Debtor = 1
+222,2587,0.5647539682539683,Enrolled,Medium,Academic progression variance
+223,517,0.5638008935508937,Dropout,Medium,Academic progression variance
+224,2848,0.5591957671957669,Dropout,Medium,Age at enrollment = 54
+225,2069,0.5587301587301587,Dropout,Medium,Tuition fees up to date = 0
+226,1683,0.5579956709956709,Dropout,Medium,Academic progression variance
+227,4347,0.5574059478197411,Dropout,Medium,Academic progression variance
+228,3553,0.5552605820105823,Dropout,Medium,Debtor = 1
+229,1166,0.5452222222222224,Dropout,Medium,Age at enrollment = 30
+230,4246,0.5416309523809524,Dropout,Medium,Tuition fees up to date = 0; Age at enrollment = 39
+231,3786,0.537913311246055,Dropout,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+232,76,0.5367301587301587,Dropout,Medium,Academic progression variance
+233,3002,0.5345634920634921,Dropout,Medium,Academic progression variance
+234,2446,0.5318611111111109,Dropout,Medium,Age at enrollment = 44
+235,191,0.529452380952381,Enrolled,Medium,Academic progression variance
+236,4204,0.5237949735449737,Dropout,Medium,Academic progression variance
+237,1558,0.5223197999921009,Dropout,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+238,2811,0.5165901875901877,Dropout,Medium,Tuition fees up to date = 0; Debtor = 1; Age at enrollment = 31
+239,2616,0.5134603174603176,Dropout,Medium,Curricular units 2nd sem (approved) = 0
+240,1846,0.5104620242362178,Dropout,Medium,Academic progression variance
+241,3590,0.5081719576719576,Enrolled,Medium,Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+242,2382,0.5073835978835981,Dropout,Medium,Academic progression variance
+243,2596,0.48632539682539666,Dropout,Medium,Debtor = 1
+244,2749,0.4841428571428573,Dropout,Medium,Age at enrollment = 47
+245,4015,0.48066666666666646,Dropout,Medium,Age at enrollment = 31
+246,2413,0.47894047619047614,Graduate,Medium,Age at enrollment = 41
+247,1100,0.4753076923076925,Dropout,Medium,Academic progression variance
+248,1761,0.4738942582242893,Dropout,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+249,2760,0.47389285714285745,Dropout,Medium,Academic progression variance
+250,3739,0.47274603174603186,Dropout,Medium,Curricular units 1st sem (approved) = 0
+251,830,0.4669034391534389,Dropout,Medium,Academic progression variance
+252,3408,0.46101587301587293,Dropout,Medium,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+253,728,0.4543588353878811,Graduate,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+254,3685,0.4482775742775743,Dropout,Medium,Academic progression variance
+255,1717,0.446771164021164,Enrolled,Medium,Curricular units 1st sem (approved) = 1; Age at enrollment = 33
+256,2189,0.44473412698412707,Dropout,Medium,Debtor = 1
+257,4208,0.4431268524975023,Dropout,Medium,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+258,3439,0.4421111111111112,Dropout,Medium,Academic progression variance
+259,742,0.43950396825396826,Dropout,Medium,Academic progression variance
+260,777,0.43048412698412675,Dropout,Medium,Academic progression variance
+261,54,0.4298452380952379,Dropout,Medium,Academic progression variance
+262,1511,0.4249047619047618,Enrolled,Medium,Age at enrollment = 47
+263,2417,0.42132142857142857,Graduate,Medium,Academic progression variance
+264,2593,0.42126984126984124,Dropout,Medium,Academic progression variance
+265,2793,0.4181213278489074,Graduate,Medium,Tuition fees up to date = 0; Debtor = 1; Curricular units 1st sem (approved) = 0
+266,108,0.41684126984126985,Dropout,Medium,Academic progression variance
+267,2126,0.40790476190476177,Dropout,Medium,Academic progression variance
+268,1618,0.4062079831932773,Dropout,Medium,Academic progression variance
+269,3676,0.3947936507936507,Graduate,Low,Tuition fees up to date = 0; Debtor = 1
+270,4235,0.3945482202982203,Enrolled,Low,Academic progression variance
+271,2159,0.38533333333333336,Dropout,Low,Academic progression variance
+272,1785,0.3824444444444445,Enrolled,Low,Academic progression variance
+273,908,0.3820970418470419,Enrolled,Low,Academic progression variance
+274,1958,0.3812301587301586,Dropout,Low,Academic progression variance
+275,2643,0.3803095238095239,Dropout,Low,Academic progression variance
+276,547,0.37541020091020094,Enrolled,Low,Debtor = 1
+277,1623,0.3712460317460317,Dropout,Low,Age at enrollment = 47
+278,89,0.37084126984126975,Enrolled,Low,Debtor = 1; Curricular units 2nd sem (approved) = 0
+279,4033,0.35898794216905666,Dropout,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+280,837,0.3532579365079364,Enrolled,Low,Academic progression variance
+281,3612,0.3518253968253968,Dropout,Low,Academic progression variance
+282,2035,0.35,Enrolled,Low,Academic progression variance
+283,3003,0.34817651381540266,Dropout,Low,Academic progression variance
+284,199,0.3411957671957671,Enrolled,Low,Age at enrollment = 35
+285,2386,0.3397380952380953,Enrolled,Low,Academic progression variance
+286,2904,0.3366863169510228,Dropout,Low,Age at enrollment = 37
+287,2190,0.3322080955474398,Enrolled,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+288,205,0.3287539682539683,Graduate,Low,Academic progression variance
+289,2236,0.32785714285714285,Enrolled,Low,Academic progression variance
+290,3275,0.3260952380952381,Graduate,Low,Academic progression variance
+291,2615,0.3173769841269841,Dropout,Low,Tuition fees up to date = 0
+292,862,0.31626984126984126,Dropout,Low,Academic progression variance
+293,3211,0.3100466484651359,Enrolled,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+294,1533,0.30919047619047624,Enrolled,Low,Debtor = 1; Age at enrollment = 30
+295,3528,0.3057592592592592,Dropout,Low,Academic progression variance
+296,2479,0.30536437908496733,Dropout,Low,Academic progression variance
+297,3937,0.3022215007215006,Enrolled,Low,Academic progression variance
+298,4081,0.30161111111111116,Enrolled,Low,Debtor = 1
+299,387,0.2997896825396825,Graduate,Low,Age at enrollment = 28
+300,3194,0.29939682539682533,Enrolled,Low,Debtor = 1
+301,3380,0.2934682539682539,Dropout,Low,Academic progression variance
+302,2879,0.2915252525252525,Dropout,Low,Age at enrollment = 45
+303,1205,0.29142857142857154,Graduate,Low,Academic progression variance
+304,74,0.288297619047619,Graduate,Low,Academic progression variance
+305,555,0.28827777777777774,Dropout,Low,Academic progression variance
+306,1425,0.286333617189254,Graduate,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+307,2952,0.28461111111111115,Enrolled,Low,Age at enrollment = 35
+308,3778,0.28099927849927847,Enrolled,Low,Academic progression variance
+309,3150,0.2803174603174603,Enrolled,Low,Academic progression variance
+310,2247,0.2787619047619048,Enrolled,Low,Curricular units 1st sem (approved) = 0; Curricular units 2nd sem (approved) = 0
+311,3625,0.27832142857142855,Enrolled,Low,Curricular units 1st sem (approved) = 1
+312,4170,0.27586363636363637,Enrolled,Low,Academic progression variance
+313,1518,0.27322314914422713,Enrolled,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+314,1680,0.27202777777777776,Enrolled,Low,Academic progression variance
+315,2106,0.2706931216931217,Enrolled,Low,Curricular units 1st sem (approved) = 1
+316,973,0.2668333333333333,Graduate,Low,Curricular units 1st sem (approved) = 1; Age at enrollment = 40
+317,807,0.26485714285714285,Enrolled,Low,Tuition fees up to date = 0; Debtor = 1
+318,3029,0.26477896369275683,Graduate,Low,Academic progression variance
+319,4180,0.2604040404040404,Enrolled,Low,Debtor = 1
+320,1787,0.2598637566137566,Graduate,Low,Academic progression variance
+321,1152,0.2590277777777777,Enrolled,Low,Academic progression variance
+322,2880,0.2570603318250378,Graduate,Low,Age at enrollment = 47
+323,759,0.2565,Graduate,Low,Age at enrollment = 46
+324,3993,0.2486309523809524,Graduate,Low,Tuition fees up to date = 0; Debtor = 1
+325,4291,0.24597141120103952,Graduate,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+326,2213,0.2415757808499744,Dropout,Low,Academic progression variance
+327,3183,0.23959920634920637,Enrolled,Low,Age at enrollment = 28
+328,3637,0.23613095238095236,Enrolled,Low,Tuition fees up to date = 0; Debtor = 1; Age at enrollment = 33
+329,836,0.23343183940242768,Dropout,Low,Academic progression variance
+330,463,0.23341534391534385,Graduate,Low,Debtor = 1
+331,3570,0.23237157287157287,Graduate,Low,Academic progression variance
+332,2859,0.23079761904761908,Enrolled,Low,Age at enrollment = 48
+333,750,0.23032595182595184,Graduate,Low,Academic progression variance
+334,3598,0.22600000000000003,Graduate,Low,Academic progression variance
+335,1213,0.22526322751322753,Graduate,Low,Academic progression variance
+336,3284,0.22512698412698423,Enrolled,Low,Debtor = 1
+337,1843,0.22316666666666668,Enrolled,Low,Debtor = 1
+338,651,0.22288095238095249,Enrolled,Low,Tuition fees up to date = 0
+339,3942,0.22132936507936515,Graduate,Low,Academic progression variance
+340,2868,0.22013705738705738,Enrolled,Low,Age at enrollment = 41
+341,1591,0.21987978593910792,Dropout,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+342,969,0.21922486772486774,Enrolled,Low,Academic progression variance
+343,2755,0.21787301587301586,Graduate,Low,Age at enrollment = 37
+344,3523,0.21746031746031758,Enrolled,Low,Academic progression variance
+345,2496,0.21231371817558564,Graduate,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+346,3929,0.21047979797979802,Enrolled,Low,Academic progression variance
+347,869,0.2103603667627095,Graduate,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+348,3824,0.20977649746767402,Enrolled,Low,Curricular units 1st sem (approved) = 0
+349,4311,0.20934175084175088,Enrolled,Low,Curricular units 1st sem (approved) = 0
+350,1820,0.20769841269841272,Enrolled,Low,Tuition fees up to date = 0
+351,1338,0.20641666666666664,Dropout,Low,Academic progression variance
+352,3326,0.2013174603174603,Graduate,Low,Age at enrollment = 30
+353,1302,0.20122911097187418,Graduate,Low,Debtor = 1; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+354,4247,0.19971957671957674,Graduate,Low,Debtor = 1; Age at enrollment = 37
+355,502,0.19888888888888892,Enrolled,Low,Tuition fees up to date = 0
+356,4325,0.19790476190476192,Graduate,Low,Age at enrollment = 32
+357,2691,0.19753306878306873,Graduate,Low,Academic progression variance
+358,2368,0.19732034632034637,Enrolled,Low,Tuition fees up to date = 0; Age at enrollment = 29
+359,2814,0.1963185533433829,Graduate,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+360,3620,0.1945555555555555,Dropout,Low,Academic progression variance
+361,30,0.19381634642160955,Enrolled,Low,Academic progression variance
+362,1350,0.19322818919392895,Graduate,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+363,4213,0.18948015873015872,Graduate,Low,Tuition fees up to date = 0
+364,1774,0.18786688311688313,Enrolled,Low,Academic progression variance
+365,31,0.18705555555555559,Graduate,Low,Academic progression variance
+366,677,0.18601678876678873,Enrolled,Low,Academic progression variance
+367,150,0.1811682090483018,Enrolled,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+368,1968,0.18112881562881572,Enrolled,Low,Debtor = 1
+369,1471,0.1804708994708995,Enrolled,Low,Academic progression variance
+370,1856,0.17937962962962967,Graduate,Low,Tuition fees up to date = 0; Debtor = 1
+371,1859,0.17933730158730157,Enrolled,Low,Academic progression variance
+372,4269,0.17875925925925928,Enrolled,Low,Academic progression variance
+373,3605,0.17785137085137084,Graduate,Low,Academic progression variance
+374,1669,0.1772526455026455,Graduate,Low,Debtor = 1
+375,3471,0.17481439393939394,Graduate,Low,Tuition fees up to date = 0; Debtor = 1
+376,1561,0.17387736815156177,Enrolled,Low,Academic progression variance
+377,2870,0.17319444444444448,Graduate,Low,Academic progression variance
+378,2347,0.17087698412698413,Graduate,Low,Academic progression variance
+379,3237,0.17037301587301587,Enrolled,Low,Academic progression variance
+380,2401,0.16975,Graduate,Low,Age at enrollment = 52
+381,3240,0.1690634920634921,Enrolled,Low,Age at enrollment = 30
+382,3740,0.1690185185185185,Dropout,Low,Academic progression variance
+383,485,0.16893867243867247,Graduate,Low,Academic progression variance
+384,1523,0.1649801587301588,Dropout,Low,Academic progression variance
+385,1686,0.1646759259259259,Graduate,Low,Curricular units 1st sem (approved) = 0
+386,1706,0.16330586650342382,Dropout,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+387,176,0.16327777777777783,Graduate,Low,Academic progression variance
+388,4320,0.16311437908496731,Enrolled,Low,Debtor = 1
+389,1038,0.16011243386243387,Graduate,Low,Academic progression variance
+390,3902,0.15966666666666665,Enrolled,Low,Age at enrollment = 35
+391,3918,0.15475925925925924,Enrolled,Low,Academic progression variance
+392,4184,0.15447354497354499,Graduate,Low,Academic progression variance
+393,680,0.15321489621489626,Graduate,Low,Academic progression variance
+394,3646,0.15291269841269844,Enrolled,Low,Academic progression variance
+395,1901,0.15279761904761902,Graduate,Low,Academic progression variance
+396,1454,0.15182275132275133,Enrolled,Low,Academic progression variance
+397,3627,0.14945454545454545,Enrolled,Low,Academic progression variance
+398,1727,0.14868253968253967,Enrolled,Low,Academic progression variance
+399,323,0.14830158730158732,Graduate,Low,Academic progression variance
+400,2927,0.14823698523698528,Graduate,Low,Academic progression variance
+401,1783,0.14722222222222223,Enrolled,Low,Debtor = 1
+402,4189,0.14719841269841266,Graduate,Low,Age at enrollment = 28
+403,1457,0.14425396825396827,Enrolled,Low,Academic progression variance
+404,429,0.14425000000000002,Graduate,Low,Academic progression variance
+405,52,0.14301190476190478,Enrolled,Low,Academic progression variance
+406,167,0.13876984126984127,Graduate,Low,Academic progression variance
+407,2121,0.13836507936507933,Graduate,Low,Debtor = 1
+408,1206,0.13661904761904764,Graduate,Low,Debtor = 1
+409,806,0.1359359864216495,Graduate,Low,Academic progression variance
+410,421,0.13591269841269843,Graduate,Low,Age at enrollment = 30
+411,2418,0.1358611111111111,Graduate,Low,Tuition fees up to date = 0
+412,1965,0.13569841269841268,Graduate,Low,Age at enrollment = 31
+413,4352,0.1356255370144259,Dropout,Low,Academic progression variance
+414,3697,0.13530952380952382,Enrolled,Low,Academic progression variance
+415,3105,0.13442592592592592,Dropout,Low,Age at enrollment = 29
+416,3312,0.1338412698412698,Enrolled,Low,Debtor = 1; Age at enrollment = 31
+417,2873,0.13271825396825399,Graduate,Low,Age at enrollment = 32
+418,1141,0.1324047619047619,Enrolled,Low,Academic progression variance
+419,2433,0.1322096171802054,Enrolled,Low,Academic progression variance
+420,1947,0.13174206349206352,Graduate,Low,Academic progression variance
+421,2600,0.13107491582491584,Dropout,Low,Academic progression variance
+422,696,0.1296230158730159,Graduate,Low,Age at enrollment = 45
+423,4177,0.12839285714285714,Enrolled,Low,Debtor = 1
+424,2639,0.12738888888888888,Graduate,Low,Academic progression variance
+425,2554,0.1269596171802054,Enrolled,Low,Debtor = 1
+426,230,0.12661414063833418,Graduate,Low,Academic progression variance
+427,3209,0.12545238095238095,Graduate,Low,Academic progression variance
+428,3972,0.12508333333333332,Graduate,Low,Age at enrollment = 31
+429,189,0.12496092796092799,Graduate,Low,Academic progression variance
+430,2196,0.12495767195767196,Enrolled,Low,Academic progression variance
+431,3738,0.12404365079365083,Graduate,Low,Academic progression variance
+432,1815,0.12375396825396821,Enrolled,Low,Debtor = 1
+433,3070,0.12362962962962963,Enrolled,Low,Academic progression variance
+434,1919,0.12192063492063492,Enrolled,Low,Debtor = 1
+435,3796,0.12106204906204907,Graduate,Low,Academic progression variance
+436,3736,0.11969444444444444,Enrolled,Low,Academic progression variance
+437,2024,0.1192222222222222,Enrolled,Low,Age at enrollment = 34
+438,2973,0.11889404305783617,Graduate,Low,Academic progression variance
+439,2507,0.11873656898656897,Graduate,Low,Age at enrollment = 37
+440,1800,0.1186111111111111,Dropout,Low,Academic progression variance
+441,2186,0.11840873015873017,Enrolled,Low,Academic progression variance
+442,591,0.11718253968253967,Enrolled,Low,Academic progression variance
+443,4126,0.11672222222222224,Enrolled,Low,Academic progression variance
+444,1809,0.11655555555555557,Graduate,Low,Academic progression variance
+445,1400,0.11639414764065359,Enrolled,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+446,641,0.11582347282347281,Enrolled,Low,Academic progression variance
+447,1398,0.11524074074074074,Graduate,Low,Age at enrollment = 31
+448,3447,0.11521135055032111,Graduate,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+449,1801,0.1147857142857143,Graduate,Low,Age at enrollment = 31
+450,3935,0.11329365079365078,Enrolled,Low,Academic progression variance
+451,1113,0.11320634920634921,Enrolled,Low,Academic progression variance
+452,1412,0.11296825396825398,Graduate,Low,Academic progression variance
+453,2713,0.11264571150097469,Graduate,Low,Academic progression variance
+454,2048,0.11233926531511071,Graduate,Low,Academic progression variance
+455,1550,0.11223232323232327,Graduate,Low,Age at enrollment = 35
+456,2405,0.11122222222222222,Graduate,Low,Tuition fees up to date = 0; Age at enrollment = 35
+457,2133,0.11087301587301586,Graduate,Low,Academic progression variance
+458,2968,0.11005555555555557,Graduate,Low,Age at enrollment = 41
+459,248,0.10996825396825394,Graduate,Low,Academic progression variance
+460,1181,0.10988888888888887,Graduate,Low,Academic progression variance
+461,3587,0.10883080808080806,Graduate,Low,Academic progression variance
+462,1789,0.10733090117767537,Graduate,Low,Academic progression variance
+463,3476,0.10709126984126982,Graduate,Low,Debtor = 1
+464,260,0.10689285714285714,Graduate,Low,Academic progression variance
+465,2204,0.10674641577060932,Graduate,Low,Academic progression variance
+466,214,0.1065238095238095,Graduate,Low,Academic progression variance
+467,4195,0.1061212121212121,Graduate,Low,Academic progression variance
+468,3130,0.10554484881904234,Graduate,Low,Academic progression variance
+469,3442,0.10532142857142857,Graduate,Low,Academic progression variance
+470,1936,0.10471969696969695,Graduate,Low,Academic progression variance
+471,3764,0.10359343434343435,Graduate,Low,Academic progression variance
+472,2725,0.10319841269841268,Enrolled,Low,Curricular units 1st sem (approved) = 1
+473,3588,0.10305555555555557,Graduate,Low,Academic progression variance
+474,413,0.1029920634920635,Graduate,Low,Academic progression variance
+475,431,0.1027109557109557,Graduate,Low,Academic progression variance
+476,1657,0.10226262626262624,Enrolled,Low,Academic progression variance
+477,738,0.10213888888888886,Enrolled,Low,Debtor = 1
+478,1346,0.10076994815883704,Graduate,Low,Academic progression variance
+479,4217,0.10002941176470588,Graduate,Low,Academic progression variance
+480,1031,0.09993386243386243,Enrolled,Low,Academic progression variance
+481,760,0.09992857142857142,Graduate,Low,Academic progression variance
+482,3128,0.09944444444444445,Graduate,Low,Debtor = 1
+483,4119,0.09924531024531025,Graduate,Low,Academic progression variance
+484,3507,0.09911111111111111,Graduate,Low,Academic progression variance
+485,654,0.09846031746031744,Graduate,Low,Academic progression variance
+486,3633,0.0983095238095238,Graduate,Low,Age at enrollment = 33
+487,4166,0.09819047619047616,Enrolled,Low,Academic progression variance
+488,4082,0.09814213564213566,Enrolled,Low,Academic progression variance
+489,799,0.0981111111111111,Enrolled,Low,Academic progression variance
+490,1829,0.09673809523809522,Enrolled,Low,Academic progression variance
+491,84,0.0963690476190476,Graduate,Low,Age at enrollment = 33
+492,2839,0.09587500000000002,Graduate,Low,Academic progression variance
+493,2550,0.09555555555555556,Graduate,Low,Academic progression variance
+494,370,0.0955079365079365,Graduate,Low,Age at enrollment = 50
+495,3226,0.09469444444444446,Graduate,Low,Debtor = 1
+496,2989,0.09445959595959597,Enrolled,Low,Academic progression variance
+497,256,0.09359523809523812,Graduate,Low,Age at enrollment = 29
+498,611,0.09337698412698411,Graduate,Low,Academic progression variance
+499,1212,0.09323809523809523,Graduate,Low,Age at enrollment = 35
+500,3970,0.09281562881562881,Graduate,Low,Academic progression variance
+501,367,0.09272222222222219,Enrolled,Low,Curricular units 1st sem (approved) = 1
+502,4278,0.0926111111111111,Graduate,Low,Debtor = 1
+503,1002,0.0925490929407292,Graduate,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+504,1087,0.09216666666666667,Graduate,Low,Debtor = 1
+505,1439,0.09205555555555557,Graduate,Low,Academic progression variance
+506,1315,0.09194444444444444,Graduate,Low,Academic progression variance
+507,4026,0.09192063492063492,Graduate,Low,Age at enrollment = 41
+508,2828,0.09120512820512819,Enrolled,Low,Academic progression variance
+509,4286,0.09116666666666666,Graduate,Low,Academic progression variance
+510,2938,0.09102116402116404,Enrolled,Low,Age at enrollment = 34
+511,3034,0.09081959706959708,Graduate,Low,Academic progression variance
+512,4402,0.0904722222222222,Enrolled,Low,Academic progression variance
+513,1836,0.09033333333333335,Graduate,Low,Age at enrollment = 34
+514,4135,0.09005158730158731,Graduate,Low,Age at enrollment = 28
+515,2297,0.08909920634920633,Graduate,Low,Academic progression variance
+516,809,0.08903439153439154,Enrolled,Low,Academic progression variance
+517,2990,0.08902597402597402,Graduate,Low,Academic progression variance
+518,1097,0.08868253968253965,Graduate,Low,Academic progression variance
+519,1956,0.08852166829586183,Enrolled,Low,Academic progression variance
+520,977,0.08846031746031745,Graduate,Low,Academic progression variance
+521,3241,0.08833333333333332,Graduate,Low,Age at enrollment = 34
+522,18,0.08823725812163946,Graduate,Low,Academic progression variance
+523,664,0.08812942612942612,Graduate,Low,Academic progression variance
+524,3280,0.08792374051069701,Graduate,Low,Academic progression variance
+525,3238,0.08769374658263547,Graduate,Low,Academic progression variance
+526,300,0.08753968253968254,Graduate,Low,Academic progression variance
+527,1005,0.08716666666666666,Graduate,Low,Academic progression variance
+528,1802,0.08700000000000002,Graduate,Low,Academic progression variance
+529,2837,0.08658547008547009,Enrolled,Low,Age at enrollment = 50
+530,1560,0.08583333333333333,Enrolled,Low,Academic progression variance
+531,673,0.0852741935483871,Graduate,Low,Academic progression variance
+532,4407,0.08450610500610498,Graduate,Low,Academic progression variance
+533,747,0.08418650793650795,Graduate,Low,Age at enrollment = 28
+534,364,0.08400000000000005,Enrolled,Low,Academic progression variance
+535,3158,0.08338095238095239,Enrolled,Low,Academic progression variance
+536,3423,0.08315079365079364,Dropout,Low,Age at enrollment = 30
+537,356,0.08305555555555556,Graduate,Low,Academic progression variance
+538,880,0.08278769841269842,Graduate,Low,Academic progression variance
+539,2841,0.08270238095238096,Graduate,Low,Age at enrollment = 46
+540,4230,0.08238888888888889,Graduate,Low,Age at enrollment = 28
+541,2002,0.08238095238095239,Graduate,Low,Age at enrollment = 28
+542,3136,0.08214285714285713,Graduate,Low,Academic progression variance
+543,839,0.08119312169312168,Graduate,Low,Academic progression variance
+544,1397,0.08118650793650793,Graduate,Low,Debtor = 1
+545,4062,0.08086507936507936,Graduate,Low,Academic progression variance
+546,2291,0.08057215007215006,Graduate,Low,Academic progression variance
+547,3580,0.0801827485380117,Graduate,Low,Academic progression variance
+548,1776,0.07983333333333333,Graduate,Low,Age at enrollment = 33
+549,950,0.07883333333333332,Graduate,Low,Age at enrollment = 30
+550,4209,0.07846428571428572,Graduate,Low,Academic progression variance
+551,4416,0.0783888888888889,Graduate,Low,Academic progression variance
+552,3394,0.07792773431211565,Enrolled,Low,Academic progression variance
+553,3642,0.07711111111111112,Graduate,Low,Academic progression variance
+554,3415,0.07669865319865317,Enrolled,Low,Academic progression variance
+555,1813,0.0762063492063492,Graduate,Low,Academic progression variance
+556,629,0.07605555555555554,Graduate,Low,Academic progression variance
+557,3174,0.07560317460317462,Enrolled,Low,Academic progression variance
+558,4131,0.07554761904761904,Graduate,Low,Academic progression variance
+559,631,0.0749325396825397,Enrolled,Low,Academic progression variance
+560,1853,0.07480555555555558,Graduate,Low,Academic progression variance
+561,1893,0.07438478403534884,Enrolled,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 2nd sem (approved) = 0
+562,1606,0.07437037037037035,Graduate,Low,Academic progression variance
+563,1756,0.07422222222222222,Enrolled,Low,Debtor = 1
+564,1053,0.07414571150097464,Graduate,Low,Academic progression variance
+565,3475,0.07342872405372405,Graduate,Low,Academic progression variance
+566,3730,0.07337301587301585,Graduate,Low,Academic progression variance
+567,662,0.07330519069407958,Graduate,Low,Academic progression variance
+568,3458,0.07307142857142856,Graduate,Low,Academic progression variance
+569,3045,0.072984126984127,Graduate,Low,Academic progression variance
+570,1401,0.07291883116883117,Graduate,Low,Academic progression variance
+571,4150,0.07287566137566137,Graduate,Low,Academic progression variance
+572,1969,0.07272260624679978,Graduate,Low,Academic progression variance
+573,1974,0.07177572016460906,Graduate,Low,Academic progression variance
+574,21,0.07127777777777777,Enrolled,Low,Academic progression variance
+575,1852,0.07122222222222223,Graduate,Low,Academic progression variance
+576,2431,0.07112698412698414,Graduate,Low,Academic progression variance
+577,902,0.0711111111111111,Graduate,Low,Academic progression variance
+578,2978,0.07103571428571429,Graduate,Low,Academic progression variance
+579,3285,0.07099999999999998,Graduate,Low,Age at enrollment = 36
+580,215,0.07094444444444443,Enrolled,Low,Academic progression variance
+581,2965,0.07038888888888889,Graduate,Low,Debtor = 1
+582,1271,0.06998002189381501,Graduate,Low,Academic progression variance
+583,2777,0.06949999999999999,Enrolled,Low,Academic progression variance
+584,2453,0.06917460317460318,Enrolled,Low,Academic progression variance
+585,1545,0.0690792540792541,Graduate,Low,Academic progression variance
+586,4128,0.0689731240981241,Graduate,Low,Academic progression variance
+587,1010,0.06834391534391535,Graduate,Low,Academic progression variance
+588,4392,0.06812914209973035,Enrolled,Low,Academic progression variance
+589,3581,0.06803174603174603,Graduate,Low,Debtor = 1
+590,464,0.06792063492063491,Enrolled,Low,Academic progression variance
+591,3783,0.0676190476190476,Enrolled,Low,Academic progression variance
+592,330,0.06761111111111112,Enrolled,Low,Academic progression variance
+593,4022,0.06757936507936507,Graduate,Low,Academic progression variance
+594,2812,0.06710400299289188,Graduate,Low,Academic progression variance
+595,3640,0.06708354668032088,Graduate,Low,Academic progression variance
+596,475,0.06708297258297258,Graduate,Low,Academic progression variance
+597,3134,0.06701190476190476,Enrolled,Low,Academic progression variance
+598,1899,0.06694444444444445,Graduate,Low,Academic progression variance
+599,4149,0.06630555555555556,Graduate,Low,Academic progression variance
+600,3834,0.06613227513227513,Graduate,Low,Academic progression variance
+601,2265,0.06592592592592593,Enrolled,Low,Tuition fees up to date = 0
+602,4037,0.06590211640211639,Enrolled,Low,Curricular units 1st sem (approved) = 1
+603,652,0.06577777777777777,Graduate,Low,Academic progression variance
+604,3098,0.0656111111111111,Enrolled,Low,Academic progression variance
+605,1577,0.06498148148148149,Enrolled,Low,Age at enrollment = 28
+606,1336,0.0648095238095238,Enrolled,Low,Academic progression variance
+607,1314,0.0639834287576223,Enrolled,Low,Academic progression variance
+608,2397,0.06377777777777778,Enrolled,Low,Academic progression variance
+609,1418,0.06355555555555556,Graduate,Low,Debtor = 1
+610,26,0.06344444444444444,Graduate,Low,Academic progression variance
+611,3999,0.06319755003450657,Dropout,Low,Academic progression variance
+612,2062,0.06318899891484432,Graduate,Low,Academic progression variance
+613,919,0.06292460317460319,Graduate,Low,Age at enrollment = 41
+614,233,0.06276455026455025,Graduate,Low,Academic progression variance
+615,245,0.06276190476190475,Graduate,Low,Academic progression variance
+616,731,0.06257731245676915,Graduate,Low,Academic progression variance
+617,3897,0.06202777777777777,Graduate,Low,Academic progression variance
+618,1044,0.06172222222222222,Graduate,Low,Academic progression variance
+619,667,0.0616111111111111,Graduate,Low,Academic progression variance
+620,2398,0.06157936507936508,Graduate,Low,Academic progression variance
+621,4061,0.06108811558811559,Graduate,Low,Academic progression variance
+622,3814,0.0606111111111111,Graduate,Low,Academic progression variance
+623,865,0.060567460317460305,Graduate,Low,Academic progression variance
+624,961,0.060500000000000005,Graduate,Low,Academic progression variance
+625,492,0.06017016317016318,Graduate,Low,Academic progression variance
+626,2548,0.059944444444444446,Graduate,Low,Academic progression variance
+627,1158,0.05957936507936509,Graduate,Low,Academic progression variance
+628,3653,0.059125745505202214,Enrolled,Low,Academic progression variance
+629,1977,0.05888888888888889,Graduate,Low,Academic progression variance
+630,2091,0.058642857142857135,Enrolled,Low,Academic progression variance
+631,2271,0.0582936507936508,Graduate,Low,Academic progression variance
+632,41,0.058171957671957666,Graduate,Low,Academic progression variance
+633,3452,0.058126984126984124,Graduate,Low,Academic progression variance
+634,3831,0.0576965811965812,Enrolled,Low,Academic progression variance
+635,4178,0.057611111111111106,Graduate,Low,Academic progression variance
+636,633,0.05754761904761904,Graduate,Low,Debtor = 1
+637,3997,0.05726190476190477,Graduate,Low,Age at enrollment = 37
+638,658,0.05719658119658119,Graduate,Low,Academic progression variance
+639,1614,0.05712852022529442,Graduate,Low,Age at enrollment = 36
+640,744,0.056804232804232795,Graduate,Low,Age at enrollment = 52
+641,2855,0.05666666666666668,Dropout,Low,Academic progression variance
+642,2403,0.056499999999999995,Graduate,Low,Academic progression variance
+643,2467,0.05633333333333334,Enrolled,Low,Academic progression variance
+644,3930,0.05622222222222222,Graduate,Low,Academic progression variance
+645,540,0.05588095238095237,Graduate,Low,Age at enrollment = 28
+646,1567,0.055706349206349204,Graduate,Low,Academic progression variance
+647,2619,0.05561111111111111,Graduate,Low,Academic progression variance
+648,637,0.055499999999999994,Enrolled,Low,Academic progression variance
+649,1637,0.05519841269841269,Graduate,Low,Academic progression variance
+650,2082,0.05496296296296297,Graduate,Low,Academic progression variance
+651,1428,0.05460052910052909,Enrolled,Low,Academic progression variance
+652,1939,0.05451121101121101,Graduate,Low,Academic progression variance
+653,1837,0.054468253968253964,Enrolled,Low,Age at enrollment = 39
+654,1811,0.054236037624926514,Graduate,Low,Academic progression variance
+655,1692,0.053888888888888896,Graduate,Low,Academic progression variance
+656,707,0.053714285714285714,Graduate,Low,Age at enrollment = 60
+657,2806,0.05361111111111111,Graduate,Low,Academic progression variance
+658,1735,0.05318253968253968,Graduate,Low,Academic progression variance
+659,2996,0.052940860215053766,Graduate,Low,Academic progression variance
+660,962,0.05253571428571429,Graduate,Low,Academic progression variance
+661,1266,0.052492063492063486,Graduate,Low,Academic progression variance
+662,291,0.05247619047619048,Graduate,Low,Debtor = 1
+663,1171,0.05237301587301587,Graduate,Low,Academic progression variance
+664,3263,0.05233333333333333,Graduate,Low,Academic progression variance
+665,226,0.052325396825396824,Graduate,Low,Age at enrollment = 45
+666,2861,0.05201933251933253,Graduate,Low,Academic progression variance
+667,815,0.051277777777777776,Enrolled,Low,Academic progression variance
+668,2373,0.05100000000000001,Enrolled,Low,Academic progression variance
+669,3971,0.05063888888888889,Graduate,Low,Academic progression variance
+670,416,0.050084656084656086,Graduate,Low,Academic progression variance
+671,3392,0.04969607843137256,Graduate,Low,Academic progression variance
+672,4317,0.04916666666666667,Graduate,Low,Academic progression variance
+673,2399,0.049055555555555554,Graduate,Low,Academic progression variance
+674,2724,0.04888888888888889,Graduate,Low,Academic progression variance
+675,1191,0.048797619047619055,Graduate,Low,Academic progression variance
+676,3017,0.04802777777777778,Graduate,Low,Academic progression variance
+677,2134,0.0479238683127572,Graduate,Low,Academic progression variance
+678,2054,0.047820565907522435,Graduate,Low,Academic progression variance
+679,2610,0.04766666666666668,Graduate,Low,Academic progression variance
+680,1442,0.047111111111111104,Graduate,Low,Academic progression variance
+681,1199,0.04700000000000001,Graduate,Low,Academic progression variance
+682,2049,0.046657252883098306,Graduate,Low,Academic progression variance
+683,3945,0.04661111111111111,Graduate,Low,Academic progression variance
+684,3212,0.04651507484714315,Graduate,Low,Academic progression variance
+685,976,0.04605555555555555,Graduate,Low,Academic progression variance
+686,308,0.04585449735449735,Graduate,Low,Academic progression variance
+687,1954,0.04577777777777777,Enrolled,Low,Academic progression variance
+688,2657,0.04576984126984127,Enrolled,Low,Academic progression variance
+689,484,0.04573015873015873,Graduate,Low,Academic progression variance
+690,2800,0.04524999999999999,Graduate,Low,Academic progression variance
+691,273,0.04469444444444445,Graduate,Low,Academic progression variance
+692,2664,0.044325396825396816,Graduate,Low,Age at enrollment = 45
+693,3895,0.04419607843137255,Graduate,Low,Academic progression variance
+694,1150,0.04413645673323093,Graduate,Low,Academic progression variance
+695,446,0.04394444444444444,Graduate,Low,Academic progression variance
+696,1041,0.043888888888888894,Graduate,Low,Academic progression variance
+697,77,0.04388888888888889,Graduate,Low,Debtor = 1
+698,2736,0.0438154557913012,Graduate,Low,Academic progression variance
+699,1250,0.04378571428571429,Graduate,Low,Academic progression variance
+700,2246,0.043722222222222225,Enrolled,Low,Academic progression variance
+701,2484,0.04367592592592593,Graduate,Low,Age at enrollment = 45
+702,3885,0.043596774193548384,Graduate,Low,Debtor = 1
+703,1993,0.04354975579975579,Graduate,Low,Academic progression variance
+704,244,0.043500000000000004,Graduate,Low,Academic progression variance
+705,420,0.043388888888888894,Graduate,Low,Academic progression variance
+706,201,0.043373626373626364,Graduate,Low,Academic progression variance
+707,4373,0.0432070707070707,Enrolled,Low,Academic progression variance
+708,1347,0.043128618113912234,Enrolled,Low,Academic progression variance
+709,2113,0.042880952380952395,Graduate,Low,Debtor = 1
+710,3402,0.04287698412698414,Graduate,Low,Academic progression variance
+711,1276,0.042555555555555555,Graduate,Low,Academic progression variance
+712,1395,0.04238888888888889,Graduate,Low,Academic progression variance
+713,1107,0.042085243974132866,Graduate,Low,Debtor = 1
+714,355,0.04208333333333333,Graduate,Low,Academic progression variance
+715,2726,0.041999999999999996,Graduate,Low,Academic progression variance
+716,2834,0.04079006656426011,Graduate,Low,Academic progression variance
+717,778,0.04041666666666666,Enrolled,Low,Academic progression variance
+718,4396,0.04028338001867413,Graduate,Low,Academic progression variance
+719,1321,0.04005555555555556,Enrolled,Low,Academic progression variance
+720,4041,0.03989529914529914,Graduate,Low,Academic progression variance
+721,570,0.0397936507936508,Graduate,Low,Academic progression variance
+722,3082,0.03966666666666667,Graduate,Low,Academic progression variance
+723,2164,0.039010101010101016,Graduate,Low,Academic progression variance
+724,168,0.038952380952380954,Graduate,Low,Age at enrollment = 29
+725,3015,0.03798412698412699,Graduate,Low,Academic progression variance
+726,4013,0.03788888888888889,Graduate,Low,Academic progression variance
+727,820,0.037642857142857145,Graduate,Low,Academic progression variance
+728,3644,0.03736068748487049,Graduate,Low,Academic progression variance
+729,4173,0.037305555555555564,Graduate,Low,Academic progression variance
+730,3908,0.03704761904761904,Graduate,Low,Debtor = 1; Age at enrollment = 42
+731,2107,0.036944444444444446,Graduate,Low,Academic progression variance
+732,1422,0.036610589596252685,Graduate,Low,Academic progression variance
+733,2045,0.03655555555555555,Graduate,Low,Academic progression variance
+734,3350,0.03641666666666666,Enrolled,Low,Academic progression variance
+735,3308,0.0364155248044137,Graduate,Low,Academic progression variance
+736,632,0.03590567765567766,Graduate,Low,Academic progression variance
+737,3978,0.03578571428571429,Graduate,Low,Academic progression variance
+738,2942,0.03568253968253968,Graduate,Low,Academic progression variance
+739,3271,0.03545238095238095,Graduate,Low,Age at enrollment = 50
+740,1648,0.035185185185185194,Dropout,Low,Academic progression variance
+741,4316,0.035069444444444445,Graduate,Low,Debtor = 1
+742,383,0.03501037851037851,Graduate,Low,Academic progression variance
+743,289,0.03491275149970802,Graduate,Low,Academic progression variance
+744,3675,0.034772435897435894,Graduate,Low,Academic progression variance
+745,1981,0.03436507936507936,Graduate,Low,Academic progression variance
+746,138,0.03416666666666667,Enrolled,Low,Academic progression variance
+747,208,0.03382974910394266,Graduate,Low,Academic progression variance
+748,776,0.03378571428571428,Graduate,Low,Academic progression variance
+749,1973,0.03366666666666667,Graduate,Low,Academic progression variance
+750,2310,0.03347222222222223,Graduate,Low,Academic progression variance
+751,618,0.03333333333333333,Graduate,Low,Academic progression variance
+752,617,0.03327777777777778,Graduate,Low,Academic progression variance
+753,2770,0.033202380952380955,Graduate,Low,Academic progression variance
+754,3645,0.03289743589743589,Graduate,Low,Academic progression variance
+755,156,0.03251851851851852,Graduate,Low,Academic progression variance
+756,1566,0.03228365667254556,Graduate,Low,Academic progression variance
+757,1641,0.03218253968253968,Graduate,Low,Academic progression variance
+758,1468,0.03205555555555556,Graduate,Low,Academic progression variance
+759,1656,0.03148412698412698,Graduate,Low,Academic progression variance
+760,2018,0.03128213005632361,Enrolled,Low,Academic progression variance
+761,3906,0.03112301587301587,Graduate,Low,Academic progression variance
+762,286,0.030999796499796492,Enrolled,Low,Academic progression variance
+763,3762,0.030944444444444445,Graduate,Low,Academic progression variance
+764,2367,0.03091666666666667,Graduate,Low,Academic progression variance
+765,2710,0.030722222222222227,Graduate,Low,Academic progression variance
+766,4112,0.030492063492063484,Graduate,Low,Academic progression variance
+767,3236,0.030206349206349205,Graduate,Low,Academic progression variance
+768,2220,0.03018253968253968,Graduate,Low,Academic progression variance
+769,1012,0.030146825396825398,Graduate,Low,Academic progression variance
+770,2066,0.029918577307466197,Graduate,Low,Academic progression variance
+771,2117,0.0297201646090535,Dropout,Low,Academic progression variance
+772,3249,0.029690583079471963,Graduate,Low,Academic progression variance
+773,2607,0.029341880341880344,Dropout,Low,Academic progression variance
+774,2259,0.02916666666666666,Graduate,Low,Age at enrollment = 41
+775,3303,0.02880952380952381,Graduate,Low,Academic progression variance
+776,3393,0.028722222222222225,Graduate,Low,Academic progression variance
+777,598,0.02853968253968253,Graduate,Low,Academic progression variance
+778,4006,0.028333333333333332,Graduate,Low,Academic progression variance
+779,921,0.02805555555555556,Graduate,Low,Age at enrollment = 35
+780,3891,0.027942386831275718,Enrolled,Low,Academic progression variance
+781,4371,0.027865079365079364,Graduate,Low,Academic progression variance
+782,2157,0.02772222222222222,Graduate,Low,Academic progression variance
+783,2766,0.02755555555555556,Graduate,Low,Academic progression variance
+784,2768,0.026529914529914527,Graduate,Low,Academic progression variance
+785,1738,0.025916666666666664,Graduate,Low,Academic progression variance
+786,1017,0.025642857142857144,Graduate,Low,Academic progression variance
+787,3104,0.025506489395378282,Graduate,Low,Academic progression variance
+788,1502,0.02538888888888889,Graduate,Low,Age at enrollment = 33
+789,423,0.02500593198177739,Graduate,Low,Academic progression variance
+790,1009,0.0241191545080434,Graduate,Low,Academic progression variance
+791,4044,0.024055555555555556,Graduate,Low,Debtor = 1
+792,713,0.023777777777777773,Graduate,Low,Academic progression variance
+793,1508,0.023444444444444445,Graduate,Low,Academic progression variance
+794,1149,0.023388888888888893,Graduate,Low,Academic progression variance
+795,3361,0.02338888888888889,Graduate,Low,Academic progression variance
+796,3983,0.023374551971326162,Graduate,Low,Academic progression variance
+797,1472,0.023317460317460317,Graduate,Low,Academic progression variance
+798,4018,0.023277777777777783,Graduate,Low,Academic progression variance
+799,3678,0.023253968253968253,Graduate,Low,Academic progression variance
+800,3753,0.023,Graduate,Low,Academic progression variance
+801,905,0.022958259847148735,Graduate,Low,Academic progression variance
+802,3919,0.02272222222222222,Graduate,Low,Academic progression variance
+803,1070,0.022717391304347825,Graduate,Low,Academic progression variance
+804,4334,0.0226984126984127,Graduate,Low,Academic progression variance
+805,849,0.022626984126984127,Graduate,Low,Academic progression variance
+806,3457,0.02261111111111111,Graduate,Low,Academic progression variance
+807,3621,0.02238888888888889,Graduate,Low,Academic progression variance
+808,2146,0.02188888888888889,Graduate,Low,Academic progression variance
+809,3921,0.021886831275720164,Graduate,Low,Academic progression variance
+810,252,0.021563492063492062,Graduate,Low,Academic progression variance
+811,1075,0.02134188034188034,Graduate,Low,Academic progression variance
+812,3080,0.021333333333333336,Graduate,Low,Academic progression variance
+813,2851,0.021275720164609054,Graduate,Low,Debtor = 1
+814,565,0.021111111111111112,Graduate,Low,Academic progression variance
+815,1006,0.02080349794238683,Graduate,Low,Academic progression variance
+816,770,0.020555555555555556,Graduate,Low,Academic progression variance
+817,499,0.02027777777777778,Graduate,Low,Academic progression variance
+818,85,0.020055555555555552,Graduate,Low,Academic progression variance
+819,2804,0.019862745098039217,Graduate,Low,Academic progression variance
+820,1438,0.019777777777777783,Graduate,Low,Academic progression variance
+821,1796,0.019626185958254265,Graduate,Low,Academic progression variance
+822,3926,0.019609053497942387,Graduate,Low,Academic progression variance
+823,1139,0.019284600389863547,Graduate,Low,Academic progression variance
+824,459,0.019136456733230927,Graduate,Low,Academic progression variance
+825,4093,0.01900804424333836,Graduate,Low,Academic progression variance
+826,1068,0.018777777777777775,Graduate,Low,Academic progression variance
+827,3100,0.018583333333333334,Graduate,Low,Academic progression variance
+828,3480,0.01858333333333333,Graduate,Low,Academic progression variance
+829,3304,0.018333333333333333,Graduate,Low,Academic progression variance
+830,2791,0.018160714285714287,Graduate,Low,Academic progression variance
+831,796,0.018055555555555554,Graduate,Low,Academic progression variance
+832,335,0.018007936507936508,Graduate,Low,Academic progression variance
+833,408,0.018006410256410255,Graduate,Low,Academic progression variance
+834,216,0.017611111111111112,Graduate,Low,Academic progression variance
+835,414,0.017403963736032046,Graduate,Low,Academic progression variance
+836,144,0.016833333333333332,Graduate,Low,Academic progression variance
+837,3561,0.016726190476190478,Graduate,Low,Academic progression variance
+838,3230,0.014944444444444448,Graduate,Low,Academic progression variance
+839,242,0.014833333333333334,Graduate,Low,Academic progression variance
+840,2111,0.014563492063492061,Graduate,Low,Academic progression variance
+841,1817,0.014508547008547007,Graduate,Low,Academic progression variance
+842,274,0.014444444444444447,Graduate,Low,Academic progression variance
+843,890,0.014444444444444444,Graduate,Low,Academic progression variance
+844,2211,0.014444444444444444,Graduate,Low,Academic progression variance
+845,773,0.014429181929181929,Graduate,Low,Academic progression variance
+846,278,0.014277777777777778,Enrolled,Low,Academic progression variance
+847,782,0.014277777777777778,Graduate,Low,Academic progression variance
+848,1909,0.014166666666666666,Graduate,Low,Academic progression variance
+849,3096,0.01411111111111111,Graduate,Low,Age at enrollment = 31
+850,1264,0.01388888888888889,Graduate,Low,Academic progression variance
+851,295,0.013650793650793653,Graduate,Low,Academic progression variance
+852,4175,0.013476190476190478,Graduate,Low,Academic progression variance
+853,2924,0.013333333333333334,Graduate,Low,Age at enrollment = 32
+854,1383,0.013194444444444446,Graduate,Low,Academic progression variance
+855,3178,0.013055555555555555,Graduate,Low,Academic progression variance
+856,852,0.012638888888888889,Graduate,Low,Academic progression variance
+857,333,0.01242063492063492,Graduate,Low,Academic progression variance
+858,3379,0.011997942386831276,Graduate,Low,Academic progression variance
+859,1406,0.01188888888888889,Graduate,Low,Academic progression variance
+860,2775,0.011831275720164609,Graduate,Low,Academic progression variance
+861,351,0.011777777777777778,Graduate,Low,Academic progression variance
+862,4003,0.011722222222222222,Graduate,Low,Academic progression variance
+863,450,0.011428571428571429,Graduate,Low,Academic progression variance
+864,4205,0.010950933839822728,Graduate,Low,Academic progression variance
+865,3222,0.010833333333333334,Graduate,Low,Academic progression variance
+866,4272,0.01025,Graduate,Low,Academic progression variance
+867,1256,0.010064102564102563,Graduate,Low,Academic progression variance
+868,925,0.009777777777777778,Graduate,Low,Academic progression variance
+869,2028,0.009170437405731523,Graduate,Low,Academic progression variance
+870,2537,0.009111111111111111,Graduate,Low,Academic progression variance
+871,1224,0.008994889883778773,Graduate,Low,Academic progression variance
+872,985,0.008583333333333332,Graduate,Low,Academic progression variance
+873,418,0.008466507590690597,Graduate,Low,Academic progression variance
+874,1663,0.008055555555555555,Graduate,Low,Academic progression variance
+875,3144,0.007722222222222223,Graduate,Low,Academic progression variance
+876,1984,0.007333333333333334,Graduate,Low,Academic progression variance
+877,3059,0.007109053497942387,Graduate,Low,Academic progression variance
+878,3917,0.007103785103785103,Graduate,Low,Academic progression variance
+879,3301,0.005,Graduate,Low,Academic progression variance
+880,1119,0.004722222222222221,Graduate,Low,Academic progression variance
+881,3259,0.0044444444444444444,Graduate,Low,Academic progression variance
+882,843,0.0034979423868312758,Graduate,Low,Academic progression variance
+883,4129,0.0021405228758169933,Graduate,Low,Academic progression variance
+884,1937,0.0011111111111111111,Graduate,Low,Academic progression variance
+885,3123,0.0,Graduate,Low,Academic progression variance

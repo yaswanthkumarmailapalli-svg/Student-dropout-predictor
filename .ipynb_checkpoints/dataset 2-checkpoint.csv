@@ -1,0 +1,886 @@
+rank,student_index,p_dropout,true_outcome,risk_tier,top_reasons
+1,2340,0.9989629,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+2,477,0.99880147,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Mother's occupation = 0
+3,2687,0.9983026,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Father's occupation = 90
+4,2253,0.9982174,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 49
+5,1208,0.99801946,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 1; Age at enrollment = 28
+6,1572,0.9980065,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Father's occupation = 90
+7,1613,0.9979436,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 37
+8,4181,0.9978666,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+9,1748,0.99774534,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+10,2,0.99745756,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+11,1416,0.99721754,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+12,1728,0.99718153,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+13,3299,0.99685585,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+14,4034,0.99674475,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Mother's occupation = 0
+15,600,0.995968,Dropout,High,Curricular units 1st sem (approved) = 0; Course = 9130; Curricular units 1st sem (evaluations) = 0
+16,3557,0.9955798,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+17,551,0.995047,Dropout,High,Tuition fees up to date = 0; GDP = -1.7; Debtor = 1
+18,3641,0.99500185,Dropout,High,Curricular units 1st sem (approved) = 0; Tuition fees up to date = 0; Curricular units 1st sem (evaluations) = 0
+19,1359,0.99493873,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+20,3714,0.9946471,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 40
+21,2407,0.9936498,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 47
+22,2329,0.99355185,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 46
+23,3721,0.9932515,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 1; Age at enrollment = 30
+24,2676,0.992961,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 43; Unemployment rate = 16.2
+25,2843,0.9928722,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+26,4050,0.9923403,Dropout,High,Curricular units 1st sem (approved) = 0; Course = 9130; Curricular units 1st sem (evaluations) = 0
+27,4010,0.9922937,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 31; Unemployment rate = 15.5
+28,3667,0.9918901,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 3
+29,3947,0.9915767,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (enrolled) = 7
+30,723,0.991376,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 1; Age at enrollment = 33
+31,3875,0.991231,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 27; Mother's occupation = 0
+32,3799,0.99099815,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 32
+33,1828,0.99056655,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 28
+34,3909,0.9904151,Dropout,High,Curricular units 1st sem (approved) = 0; Father's occupation = 90; Age at enrollment = 34
+35,1365,0.990202,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 26
+36,917,0.9899108,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Age at enrollment = 37
+37,2581,0.9897233,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 27
+38,3487,0.98950803,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Mother's occupation = 0
+39,1538,0.98922217,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 2; Course = 9853
+40,2191,0.98916,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (enrolled) = 7
+41,972,0.9888586,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 33
+42,4306,0.9886851,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Unemployment rate = 15.5
+43,3287,0.9885944,Dropout,High,Tuition fees up to date = 0; Mother's occupation = 0; GDP = 1.74
+44,2442,0.9883128,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 35; Mother's occupation = 0
+45,2504,0.98824835,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Course = 9853
+46,871,0.98776776,Dropout,High,Curricular units 1st sem (approved) = 1; Mother's occupation = 0; Age at enrollment = 33
+47,1001,0.9860947,Dropout,High,Curricular units 1st sem (approved) = 0; Tuition fees up to date = 0; Curricular units 1st sem (evaluations) = 0
+48,4012,0.9859752,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Age at enrollment = 30
+49,511,0.9858607,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 32
+50,4194,0.9850072,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 2; Unemployment rate = 12.7
+51,3363,0.984984,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 38
+52,791,0.9844376,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 2; Age at enrollment = 36
+53,2209,0.98437876,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (grade) = 0.0
+54,734,0.98429257,Dropout,High,Curricular units 1st sem (approved) = 0; Course = 9130; Age at enrollment = 34
+55,3190,0.9840921,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 29
+56,2523,0.98317516,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Course = 9853
+57,1862,0.98279124,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 2; Course = 9254
+58,1378,0.98191917,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 1; GDP = -3.12
+59,2020,0.9808281,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 27
+60,893,0.9803649,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 26
+61,2244,0.980352,Dropout,High,Father's occupation = 90; Curricular units 1st sem (approved) = 3; Age at enrollment = 48
+62,2781,0.97937876,Dropout,High,Tuition fees up to date = 0; Course = 9853; Mother's qualification = 34
+63,2046,0.97781163,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (enrolled) = 7
+64,3413,0.97706395,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (enrolled) = 7
+65,1013,0.9770421,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (grade) = 0.0
+66,56,0.9767605,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 39; Course = 9254
+67,3589,0.9765737,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Age at enrollment = 27
+68,1866,0.976358,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 2; Age at enrollment = 26
+69,2440,0.97628504,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+70,1095,0.97567016,Dropout,High,Tuition fees up to date = 0; Course = 9853; Curricular units 1st sem (approved) = 3
+71,966,0.9755526,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 28
+72,745,0.9754887,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 29
+73,3314,0.9752769,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 40
+74,3847,0.97514516,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (grade) = 0.0
+75,3647,0.97414124,Dropout,High,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (grade) = 0.0
+76,2206,0.9717845,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+77,2801,0.9716011,Dropout,High,Curricular units 1st sem (approved) = 0; Course = 9130; Curricular units 1st sem (grade) = 0.0
+78,1410,0.9694179,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 58; Curricular units 1st sem (grade) = 0.0
+79,2069,0.96890545,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 3; GDP = -3.12
+80,1210,0.96863294,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 32
+81,566,0.9657629,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 25; Unemployment rate = 16.2
+82,1860,0.96333086,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 30; Mother's occupation = 0
+83,891,0.9611887,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 32
+84,703,0.96037006,Dropout,High,Curricular units 1st sem (approved) = 0; Age at enrollment = 32; Curricular units 1st sem (grade) = 0.0
+85,4312,0.9579288,Dropout,High,Tuition fees up to date = 0; Age at enrollment = 32; Unemployment rate = 16.2
+86,3408,0.95621747,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (enrolled) = 8
+87,838,0.95503205,Dropout,High,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Course = 9130
+88,973,0.95363474,Graduate,High,Curricular units 1st sem (approved) = 1; Course = 9853; Age at enrollment = 40
+89,942,0.95312387,Enrolled,Medium,Curricular units 1st sem (approved) = 0; Age at enrollment = 31; Curricular units 1st sem (grade) = 0.0
+90,4238,0.951968,Dropout,Medium,Tuition fees up to date = 0; Father's occupation = 90; Curricular units 1st sem (approved) = 3
+91,3292,0.95195687,Dropout,Medium,Curricular units 1st sem (approved) = 2; Mother's occupation = 0; Age at enrollment = 27
+92,2499,0.95174414,Dropout,Medium,Curricular units 1st sem (approved) = 2; Age at enrollment = 40; Unemployment rate = 16.2
+93,3089,0.94948804,Dropout,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Age at enrollment = 27
+94,2289,0.94727534,Dropout,Medium,Curricular units 1st sem (approved) = 0; Age at enrollment = 31; Unemployment rate = 13.9
+95,1717,0.9459102,Enrolled,Medium,Curricular units 1st sem (approved) = 1; Age at enrollment = 33; Curricular units 1st sem (enrolled) = 8
+96,3848,0.9444732,Dropout,Medium,Tuition fees up to date = 0; Age at enrollment = 28; Curricular units 1st sem (credited) = 4
+97,3103,0.94428015,Dropout,Medium,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Age at enrollment = 27
+98,309,0.944103,Dropout,Medium,Tuition fees up to date = 0; Course = 9130; Mother's occupation = 7
+99,4384,0.943831,Dropout,Medium,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 2; Age at enrollment = 27
+100,737,0.9435853,Dropout,Medium,Curricular units 1st sem (approved) = 2; Age at enrollment = 30; Course = 9254
+101,3564,0.9386918,Dropout,Medium,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Unemployment rate = 15.5
+102,1814,0.93733853,Dropout,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (grade) = 0.0; Curricular units 1st sem (enrolled) = 6
+103,2752,0.936282,Dropout,Medium,Curricular units 1st sem (approved) = 0; Age at enrollment = 48; Curricular units 1st sem (grade) = 0.0
+104,3882,0.9352719,Dropout,Medium,Tuition fees up to date = 0; Debtor = 1; GDP = 1.74
+105,2396,0.93400866,Dropout,Medium,Curricular units 1st sem (approved) = 0; Unemployment rate = 16.2; Age at enrollment = 25
+106,3321,0.93196505,Dropout,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (grade) = 0.0
+107,2939,0.93192744,Dropout,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 2; Age at enrollment = 41
+108,2248,0.9314496,Dropout,Medium,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Unemployment rate = 13.9
+109,730,0.93070245,Dropout,Medium,Tuition fees up to date = 0; Debtor = 1; Unemployment rate = 13.9
+110,4085,0.92795855,Dropout,Medium,Tuition fees up to date = 0; Course = 9130; Age at enrollment = 36
+111,2439,0.9262884,Dropout,Medium,Curricular units 1st sem (approved) = 1; Mother's occupation = 0; Age at enrollment = 35
+112,2811,0.92582965,Dropout,Medium,Tuition fees up to date = 0; Father's occupation = 90; Age at enrollment = 31
+113,2716,0.92425495,Enrolled,Medium,Curricular units 1st sem (approved) = 0; Age at enrollment = 26; Curricular units 1st sem (grade) = 0.0
+114,392,0.92259103,Dropout,Medium,Tuition fees up to date = 0; Debtor = 1; GDP = 0.32
+115,3577,0.91982126,Dropout,Medium,Curricular units 1st sem (approved) = 2; Curricular units 1st sem (enrolled) = 8; Age at enrollment = 24
+116,502,0.91733015,Enrolled,Medium,Tuition fees up to date = 0; Unemployment rate = 13.9; GDP = 0.79
+117,3866,0.9173186,Dropout,Medium,Curricular units 1st sem (approved) = 0; Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 7
+118,4322,0.9167093,Dropout,Medium,Tuition fees up to date = 0; Debtor = 1; Unemployment rate = 16.2
+119,1987,0.9126732,Enrolled,Medium,Curricular units 1st sem (approved) = 0; Age at enrollment = 34; Curricular units 1st sem (grade) = 0.0
+120,3462,0.9126494,Dropout,Medium,Curricular units 1st sem (enrolled) = 10; Age at enrollment = 32; Curricular units 1st sem (credited) = 4
+121,3281,0.9108609,Dropout,Medium,Tuition fees up to date = 0; Father's occupation = 90; Curricular units 1st sem (credited) = 10
+122,4415,0.9061199,Dropout,Medium,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 3; Age at enrollment = 46
+123,3351,0.90201336,Dropout,Medium,Curricular units 1st sem (approved) = 1; Age at enrollment = 37; Unemployment rate = 16.2
+124,3349,0.9004382,Dropout,Medium,Curricular units 1st sem (approved) = 2; Age at enrollment = 32; Gender = 1
+125,1388,0.8996469,Dropout,Medium,Curricular units 1st sem (approved) = 0; Father's occupation = 90; Curricular units 1st sem (grade) = 0.0
+126,1344,0.8985582,Dropout,Medium,Tuition fees up to date = 0; Debtor = 1; GDP = -1.7
+127,3858,0.89609724,Dropout,Medium,Curricular units 1st sem (approved) = 0; Mother's occupation = 0; Curricular units 1st sem (grade) = 0.0
+128,1859,0.89525753,Enrolled,Medium,Curricular units 1st sem (approved) = 2; Age at enrollment = 27; Curricular units 1st sem (evaluations) = 2
+129,3482,0.8952435,Dropout,Medium,Curricular units 1st sem (approved) = 0; Unemployment rate = 15.5; Age at enrollment = 25
+130,3993,0.89298975,Graduate,Medium,Tuition fees up to date = 0; Debtor = 1; GDP = 1.74
+131,1675,0.8900289,Dropout,Medium,Tuition fees up to date = 0; Course = 9254; GDP = 1.74
+132,2322,0.8889908,Dropout,Medium,Curricular units 1st sem (approved) = 1; Age at enrollment = 31; Gender = 1
+133,3927,0.8826378,Dropout,Medium,Tuition fees up to date = 0; Debtor = 1; Unemployment rate = 13.9
+134,939,0.881031,Dropout,Medium,Tuition fees up to date = 0; Age at enrollment = 31; GDP = -3.12
+135,1731,0.8805249,Dropout,Medium,Tuition fees up to date = 0; Course = 9130; GDP = 1.74
+136,1530,0.8775383,Enrolled,Medium,Curricular units 1st sem (approved) = 2; Age at enrollment = 39; Unemployment rate = 15.5
+137,3676,0.8770869,Graduate,Medium,Tuition fees up to date = 0; Curricular units 1st sem (credited) = 5; GDP = -3.12
+138,3444,0.87213844,Dropout,Medium,Tuition fees up to date = 0; GDP = 0.79; Unemployment rate = 13.9
+139,2203,0.8719879,Dropout,Medium,Curricular units 1st sem (approved) = 0; Age at enrollment = 37; Curricular units 1st sem (evaluations) = 0
+140,3860,0.8699819,Dropout,Medium,Curricular units 1st sem (approved) = 1; Age at enrollment = 25; Curricular units 1st sem (enrolled) = 6
+141,3896,0.8657521,Enrolled,Medium,Curricular units 1st sem (approved) = 1; Curricular units 1st sem (enrolled) = 6; Gender = 1
+142,1856,0.8638831,Graduate,Medium,Tuition fees up to date = 0; GDP = 1.74; Debtor = 1
+143,2653,0.8613598,Dropout,Medium,Curricular units 1st sem (approved) = 0; Age at enrollment = 43; Curricular units 1st sem (grade) = 0.0
+144,482,0.85238975,Dropout,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (enrolled) = 7
+145,433,0.85182846,Dropout,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (enrolled) = 7; Curricular units 1st sem (grade) = 0.0
+146,2846,0.8493303,Dropout,Medium,Curricular units 1st sem (approved) = 1; Age at enrollment = 39; Mother's qualification = 34
+147,2294,0.8487646,Dropout,Medium,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+148,3934,0.84755194,Dropout,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (grade) = 0.0; Unemployment rate = 12.7
+149,4276,0.84661186,Dropout,Medium,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 1; Age at enrollment = 29
+150,186,0.8401358,Enrolled,Medium,Tuition fees up to date = 0; Curricular units 1st sem (credited) = 5; Debtor = 1
+151,4169,0.8395029,Dropout,Medium,Curricular units 1st sem (approved) = 0; Mother's occupation = 0; Curricular units 1st sem (grade) = 0.0
+152,1599,0.8374501,Dropout,Medium,Debtor = 1; Unemployment rate = 16.2; Gender = 1
+153,354,0.8365732,Dropout,Medium,Tuition fees up to date = 0; Course = 9254; GDP = 1.74
+154,3572,0.8344489,Dropout,Medium,Mother's qualification = 12; Curricular units 1st sem (credited) = 7; Age at enrollment = 28
+155,331,0.819612,Dropout,Medium,Curricular units 1st sem (approved) = 0; Unemployment rate = 16.2; Age at enrollment = 26
+156,1820,0.8183087,Enrolled,Medium,Tuition fees up to date = 0; GDP = 0.79; Unemployment rate = 13.9
+157,2793,0.8147255,Graduate,Medium,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+158,92,0.8141362,Dropout,Medium,Curricular units 1st sem (approved) = 2; Course = 9130; Age at enrollment = 26
+159,3297,0.8132474,Dropout,Medium,Tuition fees up to date = 0; Age at enrollment = 26; Curricular units 1st sem (enrolled) = 7
+160,1968,0.8093109,Enrolled,Medium,Course = 9853; Debtor = 1; Unemployment rate = 12.7
+161,3824,0.8087903,Enrolled,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (grade) = 0.0; Gender = 1
+162,182,0.7997602,Dropout,Medium,Tuition fees up to date = 0; Age at enrollment = 27; Father's occupation = 4
+163,3471,0.7937918,Graduate,Medium,Tuition fees up to date = 0; Mother's occupation = 0; GDP = 0.32
+164,4246,0.7936335,Dropout,Medium,Tuition fees up to date = 0; Curricular units 1st sem (credited) = 11; Curricular units 1st sem (enrolled) = 15
+165,1582,0.7888462,Dropout,Medium,Curricular units 1st sem (approved) = 0; Age at enrollment = 34; Curricular units 1st sem (grade) = 0.0
+166,3181,0.78649455,Dropout,Medium,Course = 9130; Unemployment rate = 16.2; Debtor = 1
+167,4037,0.78217095,Enrolled,Medium,Curricular units 1st sem (approved) = 1; Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 6
+168,3811,0.78195,Dropout,Medium,Tuition fees up to date = 0; Age at enrollment = 44; Curricular units 1st sem (enrolled) = 8
+169,1864,0.77986133,Dropout,Medium,Curricular units 1st sem (approved) = 0; Course = 9130; Age at enrollment = 26
+170,3684,0.7788999,Dropout,Medium,Curricular units 1st sem (approved) = 2; Age at enrollment = 30; Unemployment rate = 15.5
+171,4077,0.77650505,Dropout,Medium,Curricular units 1st sem (approved) = 2; Mother's qualification = 34; Curricular units 1st sem (enrolled) = 6
+172,1686,0.77408725,Graduate,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (grade) = 0.0; Gender = 1
+173,3590,0.7612823,Enrolled,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (grade) = 0.0; Gender = 1
+174,562,0.756209,Dropout,Medium,Curricular units 1st sem (approved) = 1; Age at enrollment = 25; Curricular units 1st sem (grade) = 10.0
+175,2159,0.749284,Dropout,Medium,Curricular units 1st sem (approved) = 2; Course = 9254; Curricular units 1st sem (enrolled) = 6
+176,862,0.74307936,Dropout,Medium,Curricular units 1st sem (approved) = 2; Curricular units 1st sem (enrolled) = 7; Gender = 1
+177,2700,0.7427743,Dropout,Medium,Curricular units 1st sem (approved) = 0; Unemployment rate = 16.2; Curricular units 1st sem (evaluations) = 0
+178,2587,0.73626494,Enrolled,Medium,Curricular units 1st sem (approved) = 2; Age at enrollment = 24; Unemployment rate = 12.7
+179,1732,0.7260228,Dropout,Medium,Age at enrollment = 40; Curricular units 1st sem (approved) = 3; Unemployment rate = 16.2
+180,2382,0.725796,Dropout,Medium,Curricular units 1st sem (credited) = 4; Age at enrollment = 27; Application mode = 7
+181,3637,0.7217399,Enrolled,Medium,Tuition fees up to date = 0; Course = 9853; Age at enrollment = 33
+182,191,0.7161712,Enrolled,Medium,Curricular units 1st sem (approved) = 2; Curricular units 1st sem (grade) = 10.0; Curricular units 1st sem (enrolled) = 6
+183,3094,0.71550506,Dropout,Medium,Curricular units 1st sem (approved) = 1; Course = 9254; Curricular units 1st sem (enrolled) = 6
+184,2106,0.70772463,Enrolled,Medium,Curricular units 1st sem (approved) = 1; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+185,4323,0.70476484,Dropout,Medium,Curricular units 1st sem (approved) = 2; Age at enrollment = 28; Debtor = 1
+186,1533,0.70365775,Enrolled,Medium,Unemployment rate = 13.9; Debtor = 1; Age at enrollment = 30
+187,3995,0.69180334,Dropout,Medium,Curricular units 1st sem (approved) = 2; Age at enrollment = 27; Curricular units 1st sem (evaluations) = 5
+188,3194,0.6888917,Enrolled,Medium,Curricular units 1st sem (credited) = 3; Gender = 1; Curricular units 1st sem (enrolled) = 10
+189,3220,0.67855304,Dropout,Medium,Curricular units 1st sem (approved) = 1; Curricular units 1st sem (evaluations) = 5; Curricular units 1st sem (grade) = 10.0
+190,3784,0.6679938,Dropout,Medium,Curricular units 1st sem (credited) = 6; Curricular units 1st sem (enrolled) = 10; Age at enrollment = 36
+191,1431,0.66716677,Dropout,Medium,Course = 9853; Curricular units 1st sem (enrolled) = 6; Father's occupation = 9
+192,4220,0.66169316,Dropout,Medium,Curricular units 1st sem (approved) = 2; Mother's occupation = 0; Mother's qualification = 34
+193,2296,0.65997237,Dropout,Medium,Curricular units 1st sem (approved) = 0; Unemployment rate = 16.2; Curricular units 1st sem (grade) = 0.0
+194,2282,0.65908027,Dropout,Medium,Tuition fees up to date = 0; Course = 9254; Debtor = 1
+195,217,0.658335,Dropout,Medium,Curricular units 1st sem (approved) = 1; Age at enrollment = 24; Curricular units 1st sem (grade) = 10.0
+196,1375,0.657291,Dropout,Medium,Curricular units 1st sem (approved) = 0; Unemployment rate = 13.9; Curricular units 1st sem (evaluations) = 0
+197,3439,0.653898,Dropout,Medium,Curricular units 1st sem (approved) = 2; Curricular units 1st sem (enrolled) = 7; Course = 9556
+198,1038,0.65275365,Graduate,Medium,Curricular units 1st sem (approved) = 2; Curricular units 1st sem (evaluations) = 2; Unemployment rate = 13.9
+199,1205,0.6515329,Graduate,Medium,Age at enrollment = 27; Curricular units 1st sem (approved) = 3; Application mode = 7
+200,2368,0.64959717,Enrolled,Medium,Tuition fees up to date = 0; Age at enrollment = 29; Gender = 1
+201,3099,0.64734614,Dropout,Medium,Curricular units 1st sem (approved) = 1; Age at enrollment = 24; Curricular units 1st sem (enrolled) = 6
+202,37,0.6444477,Dropout,Medium,Curricular units 1st sem (approved) = 1; Age at enrollment = 55; Unemployment rate = 16.2
+203,4082,0.6315812,Enrolled,Medium,Course = 9254; Curricular units 1st sem (enrolled) = 6; Application mode = 17
+204,536,0.6186486,Dropout,Medium,Curricular units 1st sem (approved) = 1; Age at enrollment = 27; Gender = 1
+205,1688,0.6184593,Enrolled,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (grade) = 0.0
+206,3797,0.61779445,Dropout,Medium,Curricular units 1st sem (approved) = 0; Unemployment rate = 16.2; Curricular units 1st sem (grade) = 0.0
+207,2024,0.6176642,Enrolled,Medium,Curricular units 1st sem (approved) = 2; Age at enrollment = 34; Previous qualification (grade) = 120.0
+208,3290,0.610657,Dropout,Medium,Curricular units 1st sem (approved) = 1; Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 6
+209,2192,0.6082284,Dropout,Medium,Tuition fees up to date = 0; Age at enrollment = 35; Gender = 1
+210,4180,0.5994916,Enrolled,Medium,Course = 9853; Debtor = 1; Curricular units 1st sem (enrolled) = 6
+211,3338,0.5987125,Dropout,Medium,Age at enrollment = 28; Curricular units 1st sem (approved) = 3; Gender = 1
+212,597,0.5985229,Dropout,Medium,Tuition fees up to date = 0; Course = 9853; Age at enrollment = 31
+213,4358,0.59483665,Dropout,Medium,Curricular units 1st sem (approved) = 2; Course = 9254; Curricular units 1st sem (enrolled) = 6
+214,199,0.5918281,Enrolled,Medium,Curricular units 1st sem (approved) = 3; Age at enrollment = 35; Curricular units 1st sem (evaluations) = 4
+215,2189,0.5864245,Dropout,Medium,Debtor = 1; Unemployment rate = 12.7; Gender = 1
+216,1113,0.5732831,Enrolled,Medium,Curricular units 1st sem (approved) = 3; Age at enrollment = 25; Unemployment rate = 15.5
+217,1408,0.57148916,Dropout,Medium,Course = 9254; Curricular units 1st sem (enrolled) = 6; Application mode = 17
+218,2417,0.57012606,Graduate,Medium,Curricular units 1st sem (credited) = 14; Gender = 1; Age at enrollment = 25
+219,2615,0.5698543,Dropout,Medium,Tuition fees up to date = 0; Course = 9130; Gender = 1
+220,2472,0.56098443,Dropout,Medium,Gender = 1; Curricular units 1st sem (enrolled) = 6; Previous qualification (grade) = 120.0
+221,205,0.5535544,Graduate,Medium,Mother's occupation = 0; Mother's qualification = 34; Curricular units 1st sem (enrolled) = 6
+222,4402,0.5525805,Enrolled,Medium,Course = 9853; Gender = 1; Displaced = 1
+223,3523,0.5499547,Enrolled,Medium,Curricular units 1st sem (approved) = 2; Curricular units 1st sem (grade) = 10.0; Father's occupation = 4
+224,3828,0.5473189,Dropout,Medium,Curricular units 1st sem (approved) = 0; Mother's qualification = 12; Curricular units 1st sem (grade) = 0.0
+225,3097,0.54583746,Dropout,Medium,Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 6; Previous qualification (grade) = 119.0
+226,621,0.5450758,Dropout,Medium,Curricular units 1st sem (approved) = 2; Unemployment rate = 13.9; Displaced = 1
+227,2035,0.54265475,Enrolled,Medium,Curricular units 1st sem (approved) = 3; Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 6
+228,2725,0.537968,Enrolled,Medium,Curricular units 1st sem (approved) = 1; Course = 9130; Unemployment rate = 12.7
+229,2196,0.53244084,Enrolled,Medium,Curricular units 1st sem (approved) = 2; Gender = 1; Displaced = 1
+230,807,0.51974267,Enrolled,Medium,Tuition fees up to date = 0; Course = 9130; Debtor = 1
+231,2367,0.51747286,Graduate,Medium,Course = 9130; Mother's qualification = 12; Gender = 1
+232,2909,0.51501393,Dropout,Medium,Tuition fees up to date = 0; Debtor = 1; Curricular units 1st sem (enrolled) = 6
+233,1809,0.50934553,Graduate,Medium,Age at enrollment = 27; Gender = 1; GDP = 2.02
+234,2468,0.5087791,Dropout,Medium,Curricular units 1st sem (credited) = 3; Gender = 1; Curricular units 1st sem (enrolled) = 6
+235,3843,0.50622416,Dropout,Medium,Curricular units 1st sem (approved) = 1; Curricular units 1st sem (grade) = 10.0; Gender = 1
+236,2198,0.5008822,Dropout,Medium,Curricular units 1st sem (approved) = 3; Gender = 1; Unemployment rate = 12.7
+237,955,0.49654934,Dropout,Medium,Father's occupation = 90; Curricular units 1st sem (approved) = 3; Gender = 1
+238,76,0.49271756,Dropout,Medium,Course = 9254; Gender = 1; Curricular units 1st sem (enrolled) = 6
+239,4213,0.49233976,Graduate,Medium,Tuition fees up to date = 0; GDP = 1.74; Father's occupation = 9
+240,387,0.49231145,Graduate,Medium,Curricular units 1st sem (credited) = 10; Age at enrollment = 28; Curricular units 1st sem (enrolled) = 14
+241,4291,0.49050468,Graduate,Medium,Curricular units 1st sem (approved) = 0; Unemployment rate = 15.5; Curricular units 1st sem (evaluations) = 0
+242,3937,0.49021637,Enrolled,Medium,Course = 9254; Curricular units 1st sem (grade) = 10.0; Curricular units 1st sem (enrolled) = 6
+243,3699,0.47793433,Dropout,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (grade) = 0.0; Curricular units 1st sem (evaluations) = 5
+244,3172,0.47705072,Dropout,Medium,Mother's qualification = 12; Debtor = 1; Course = 9254
+245,3076,0.4743049,Dropout,Medium,Curricular units 1st sem (approved) = 3; Age at enrollment = 26; Gender = 1
+246,2405,0.47014895,Graduate,Medium,Tuition fees up to date = 0; Age at enrollment = 35; GDP = -3.12
+247,2814,0.4648273,Graduate,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Unemployment rate = 13.9
+248,1405,0.46473277,Dropout,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (grade) = 0.0; Curricular units 1st sem (evaluations) = 5
+249,3605,0.46219358,Graduate,Medium,Unemployment rate = 15.5; Gender = 1; Father's occupation = 4
+250,3646,0.46180904,Enrolled,Medium,Curricular units 1st sem (approved) = 3; Age at enrollment = 26; Curricular units 1st sem (enrolled) = 6
+251,75,0.4567898,Dropout,Medium,Curricular units 1st sem (approved) = 3; Gender = 1; Debtor = 1
+252,701,0.45402142,Dropout,Medium,Age at enrollment = 49; Curricular units 1st sem (approved) = 3; Gender = 1
+253,2479,0.45133072,Dropout,Medium,Curricular units 1st sem (approved) = 3; Gender = 1; Displaced = 1
+254,4119,0.45011672,Graduate,Medium,Course = 9853; Curricular units 1st sem (enrolled) = 6; Application mode = 17
+255,4015,0.44341755,Dropout,Medium,Age at enrollment = 31; Curricular units 1st sem (approved) = 3; Admission grade = 138.7
+256,3326,0.4423608,Graduate,Medium,Curricular units 1st sem (credited) = 6; Age at enrollment = 30; Gender = 1
+257,4235,0.4415201,Enrolled,Medium,Gender = 1; Curricular units 1st sem (enrolled) = 6; Father's occupation = 9
+258,3954,0.4325641,Dropout,Medium,Curricular units 1st sem (approved) = 2; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+259,699,0.42666754,Dropout,Medium,Age at enrollment = 39; Curricular units 1st sem (approved) = 3; Unemployment rate = 13.9
+260,637,0.4261971,Enrolled,Medium,Curricular units 1st sem (approved) = 3; Age at enrollment = 27; Father's occupation = 4
+261,122,0.42557338,Dropout,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (grade) = 0.0
+262,4170,0.4116162,Enrolled,Medium,Course = 9853; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+263,1002,0.40557954,Graduate,Medium,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; GDP = 2.02
+264,988,0.40380195,Dropout,Medium,Curricular units 1st sem (approved) = 3; Gender = 1; Father's occupation = 4
+265,361,0.40298316,Dropout,Medium,Curricular units 1st sem (approved) = 3; Debtor = 1; Curricular units 1st sem (enrolled) = 6
+266,2247,0.40283227,Enrolled,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (enrolled) = 8; Curricular units 1st sem (grade) = 0.0
+267,744,0.40107644,Graduate,Low,Age at enrollment = 52; Gender = 1; Displaced = 1
+268,2968,0.40082517,Graduate,Low,Father's occupation = 90; Age at enrollment = 41; Curricular units 1st sem (enrolled) = 6
+269,4208,0.39994437,Dropout,Low,Tuition fees up to date = 0; Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0
+270,1727,0.39703703,Enrolled,Low,Course = 9130; Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 6
+271,1206,0.39584044,Graduate,Low,Curricular units 1st sem (credited) = 11; Debtor = 1; Curricular units 1st sem (enrolled) = 14
+272,1558,0.39303568,Dropout,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (grade) = 0.0
+273,2643,0.3913595,Dropout,Low,Gender = 1; Father's occupation = 4; Age at enrollment = 25
+274,2713,0.39113265,Graduate,Low,Course = 9130; Unemployment rate = 13.9; Father's occupation = 4
+275,2859,0.38627172,Enrolled,Low,Mother's occupation = 0; Age at enrollment = 48; Mother's qualification = 34
+276,3380,0.3856078,Dropout,Low,Curricular units 1st sem (approved) = 3; Age at enrollment = 26; Unemployment rate = 13.9
+277,4033,0.3832926,Dropout,Low,Curricular units 1st sem (approved) = 0; Unemployment rate = 16.2; Curricular units 1st sem (evaluations) = 0
+278,3935,0.38220957,Enrolled,Low,Course = 9254; Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 6
+279,2000,0.38037848,Dropout,Low,Tuition fees up to date = 0; Course = 9254; Debtor = 1
+280,969,0.3799436,Enrolled,Low,Curricular units 1st sem (approved) = 3; Unemployment rate = 15.5; Age at enrollment = 24
+281,2760,0.37802547,Dropout,Low,Gender = 1; GDP = 2.02; Curricular units 1st sem (credited) = 2
+282,2236,0.37398368,Enrolled,Low,Course = 9254; Curricular units 1st sem (enrolled) = 6; Gender = 1
+283,89,0.37381482,Enrolled,Low,Curricular units 1st sem (approved) = 2; Unemployment rate = 15.5; Debtor = 1
+284,651,0.3693994,Enrolled,Low,Tuition fees up to date = 0; Curricular units 1st sem (credited) = 7; Curricular units 1st sem (enrolled) = 12
+285,4347,0.36890572,Dropout,Low,Curricular units 1st sem (approved) = 2; Father's occupation = 4; Displaced = 1
+286,2879,0.36505666,Dropout,Low,Age at enrollment = 45; Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 6
+287,962,0.3638366,Graduate,Low,Course = 9130; Curricular units 1st sem (approved) = 3; Gender = 1
+288,1463,0.36271715,Dropout,Low,Curricular units 1st sem (approved) = 2; GDP = 3.51; Gender = 1
+289,1276,0.36054412,Graduate,Low,Curricular units 1st sem (enrolled) = 6; GDP = 2.02; Displaced = 1
+290,2418,0.35608736,Graduate,Low,Tuition fees up to date = 0; Curricular units 1st sem (credited) = 5; Curricular units 1st sem (enrolled) = 12
+291,1606,0.35058138,Graduate,Low,Course = 9254; Curricular units 1st sem (enrolled) = 6; Gender = 1
+292,3625,0.3505746,Enrolled,Low,Curricular units 1st sem (approved) = 1; Curricular units 1st sem (grade) = 10.0; Curricular units 1st sem (enrolled) = 6
+293,133,0.34811693,Dropout,Low,Unemployment rate = 13.9; Application order = 6; Curricular units 1st sem (enrolled) = 7
+294,3592,0.34712294,Dropout,Low,Curricular units 1st sem (credited) = 7; Age at enrollment = 27; Application mode = 7
+295,1801,0.34488532,Graduate,Low,Mother's occupation = 0; Curricular units 1st sem (credited) = 8; Age at enrollment = 31
+296,3778,0.34483862,Enrolled,Low,Father's occupation = 4; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+297,4055,0.34467492,Dropout,Low,Age at enrollment = 28; Curricular units 1st sem (enrolled) = 6; Father's occupation = 9
+298,2554,0.34132504,Enrolled,Low,Curricular units 1st sem (approved) = 3; Gender = 1; Application mode = 18
+299,2320,0.33987588,Dropout,Low,Age at enrollment = 50; Gender = 1; Curricular units 1st sem (enrolled) = 6
+300,3786,0.332111,Dropout,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; GDP = 2.02
+301,1302,0.33192918,Graduate,Low,Curricular units 1st sem (approved) = 0; Unemployment rate = 15.5; Curricular units 1st sem (evaluations) = 0
+302,1561,0.3317559,Enrolled,Low,Course = 9130; Curricular units 1st sem (enrolled) = 6; Admission grade = 130.0
+303,517,0.33123577,Dropout,Low,Course = 9853; Father's occupation = 4; Curricular units 1st sem (enrolled) = 6
+304,1901,0.32891932,Graduate,Low,Curricular units 1st sem (credited) = 5; Curricular units 1st sem (enrolled) = 11; Father's occupation = 4
+305,1428,0.32740518,Enrolled,Low,Curricular units 1st sem (approved) = 3; Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 6
+306,742,0.32312095,Dropout,Low,Gender = 1; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+307,836,0.32264614,Dropout,Low,Curricular units 1st sem (approved) = 3; Gender = 1; Father's occupation = 4
+308,1511,0.32234108,Enrolled,Low,Age at enrollment = 47; Curricular units 1st sem (grade) = 10.0; Gender = 1
+309,1591,0.32186458,Dropout,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (grade) = 0.0
+310,1774,0.32056755,Enrolled,Low,Application order = 6; Course = 9254; Displaced = 1
+311,4407,0.32046613,Graduate,Low,Unemployment rate = 15.5; Father's occupation = 4; Gender = 1
+312,2413,0.31881392,Graduate,Low,Mother's occupation = 0; Age at enrollment = 41; Mother's qualification = 34
+313,4311,0.31647855,Enrolled,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (grade) = 0.0; Gender = 1
+314,2428,0.31412923,Dropout,Low,Age at enrollment = 29; Curricular units 1st sem (credited) = 3; Curricular units 1st sem (enrolled) = 9
+315,4352,0.31388825,Dropout,Low,Course = 9853; Application order = 6; Curricular units 1st sem (enrolled) = 6
+316,2446,0.3138862,Dropout,Low,Curricular units 1st sem (credited) = 3; Age at enrollment = 44; Gender = 1
+317,2190,0.31023812,Enrolled,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (grade) = 0.0
+318,2904,0.30914357,Dropout,Low,Age at enrollment = 37; Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 6
+319,1787,0.3049164,Graduate,Low,Age at enrollment = 27; Application mode = 7; Gender = 1
+320,4278,0.30368102,Graduate,Low,Gender = 1; Course = 9773; Curricular units 1st sem (enrolled) = 6
+321,2596,0.30024174,Dropout,Low,Debtor = 1; Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 6
+322,3240,0.29998648,Enrolled,Low,Age at enrollment = 30; Curricular units 1st sem (approved) = 3; Unemployment rate = 12.7
+323,1785,0.29979518,Enrolled,Low,Curricular units 1st sem (approved) = 3; Age at enrollment = 25; Gender = 1
+324,1087,0.2974774,Graduate,Low,Debtor = 1; Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 6
+325,1471,0.29584786,Enrolled,Low,Unemployment rate = 15.5; Gender = 1; Curricular units 1st sem (enrolled) = 6
+326,1360,0.29369327,Dropout,Low,Curricular units 1st sem (approved) = 1; Gender = 1; GDP = 3.51
+327,2989,0.28950354,Enrolled,Low,Course = 9254; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+328,961,0.28476688,Graduate,Low,Curricular units 1st sem (credited) = 10; Curricular units 1st sem (enrolled) = 15; Gender = 1
+329,3723,0.28456634,Dropout,Low,Curricular units 1st sem (approved) = 1; Debtor = 1; Gender = 1
+330,759,0.2780875,Graduate,Low,Curricular units 1st sem (credited) = 4; Age at enrollment = 46; Curricular units 1st sem (enrolled) = 9
+331,1567,0.27231336,Graduate,Low,Gender = 1; Father's occupation = 4; Displaced = 1
+332,743,0.27123004,Dropout,Low,Age at enrollment = 27; Unemployment rate = 12.7; Gender = 1
+333,356,0.27007908,Graduate,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 7; Age at enrollment = 24
+334,1936,0.26669803,Graduate,Low,Course = 9130; Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 6
+335,2433,0.26536041,Enrolled,Low,Gender = 1; Application mode = 17; Displaced = 1
+336,150,0.26525134,Enrolled,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (grade) = 0.0
+337,1213,0.26509836,Graduate,Low,Mother's occupation = 0; Curricular units 1st sem (approved) = 3; Displaced = 1
+338,1669,0.26426914,Graduate,Low,Debtor = 1; Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 6
+339,2600,0.26301217,Dropout,Low,Course = 9853; Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 6
+340,367,0.26220605,Enrolled,Low,Curricular units 1st sem (approved) = 1; Application mode = 17; Admission grade = 131.2
+341,1166,0.2607502,Dropout,Low,Curricular units 1st sem (credited) = 4; Age at enrollment = 30; Curricular units 1st sem (enrolled) = 7
+342,4373,0.2604528,Enrolled,Low,Curricular units 1st sem (approved) = 2; Curricular units 1st sem (enrolled) = 6; Mother's occupation = 7
+343,3045,0.25781375,Graduate,Low,Course = 9853; Curricular units 1st sem (enrolled) = 6; Application mode = 17
+344,510,0.25644472,Enrolled,Low,Curricular units 1st sem (enrolled) = 6; Displaced = 1; Previous qualification (grade) = 121.0
+345,2616,0.25224042,Dropout,Low,Course = 9853; Curricular units 1st sem (enrolled) = 6; Application mode = 17
+346,908,0.2518557,Enrolled,Low,Curricular units 1st sem (enrolled) = 6; Displaced = 1; Application mode = 17
+347,2397,0.25169733,Enrolled,Low,Gender = 1; GDP = 3.51; Father's occupation = 4
+348,1350,0.249828,Graduate,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (grade) = 0.0
+349,330,0.24949142,Enrolled,Low,Course = 9853; GDP = 2.02; Curricular units 1st sem (enrolled) = 7
+350,2657,0.2483162,Enrolled,Low,Course = 9853; Gender = 1; Curricular units 1st sem (enrolled) = 6
+351,1187,0.2481332,Dropout,Low,Curricular units 1st sem (approved) = 1; Curricular units 1st sem (grade) = 10.0; Admission grade = 132.3
+352,3183,0.24631931,Enrolled,Low,Age at enrollment = 28; Gender = 1; Displaced = 1
+353,3649,0.24524003,Dropout,Low,Course = 9853; Age at enrollment = 27; Curricular units 1st sem (enrolled) = 7
+354,677,0.24353638,Enrolled,Low,Course = 9853; Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 6
+355,1706,0.24352661,Dropout,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Unemployment rate = 12.7
+356,3739,0.24263555,Dropout,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (grade) = 0.0; Gender = 1
+357,3831,0.24054964,Enrolled,Low,Gender = 1; Admission grade = 135.7; Curricular units 1st sem (enrolled) = 6
+358,485,0.23985998,Graduate,Low,Course = 9853; Admission grade = 132.7; Mother's occupation = 7
+359,3738,0.23871583,Graduate,Low,GDP = 3.51; Gender = 1; Displaced = 1
+360,728,0.23861486,Graduate,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (grade) = 0.0
+361,1412,0.23618646,Graduate,Low,Curricular units 1st sem (credited) = 3; Gender = 1; Curricular units 1st sem (enrolled) = 9
+362,778,0.2349346,Enrolled,Low,Course = 9853; Curricular units 1st sem (enrolled) = 7; Application mode = 17
+363,1442,0.23246458,Graduate,Low,GDP = 2.02; Application order = 6; Gender = 1
+364,4259,0.23148298,Dropout,Low,Curricular units 1st sem (approved) = 3; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+365,3697,0.23010147,Enrolled,Low,Course = 9254; Gender = 1; Curricular units 1st sem (enrolled) = 6
+366,1152,0.22790307,Enrolled,Low,Curricular units 1st sem (approved) = 3; Displaced = 1; Application mode = 17
+367,3150,0.2270557,Enrolled,Low,Course = 9130; Unemployment rate = 12.7; Displaced = 1
+368,3612,0.22587118,Dropout,Low,Gender = 1; Curricular units 1st sem (enrolled) = 6; Curricular units 1st sem (credited) = 2
+369,1800,0.22419739,Dropout,Low,Gender = 1; Curricular units 1st sem (enrolled) = 8; Curricular units 1st sem (without evaluations) = 1
+370,1400,0.2225079,Enrolled,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (grade) = 0.0
+371,1965,0.22172147,Graduate,Low,Age at enrollment = 31; Father's occupation = 4; Unemployment rate = 15.5
+372,1843,0.2209436,Enrolled,Low,Debtor = 1; Unemployment rate = 16.2; Gender = 1
+373,950,0.21825413,Graduate,Low,Age at enrollment = 30; Gender = 1; Displaced = 1
+374,1683,0.21582127,Dropout,Low,Curricular units 1st sem (approved) = 3; Gender = 1; Displaced = 1
+375,3999,0.21473591,Dropout,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 7; Application order = 6
+376,31,0.21343789,Graduate,Low,Gender = 1; GDP = 3.51; Admission grade = 130.0
+377,3415,0.21286552,Enrolled,Low,GDP = 2.02; Application order = 6; Curricular units 1st sem (enrolled) = 7
+378,1939,0.21202509,Graduate,Low,Father's occupation = 4; Displaced = 1; Curricular units 1st sem (enrolled) = 6
+379,4189,0.21062185,Graduate,Low,Curricular units 1st sem (credited) = 8; Age at enrollment = 28; Curricular units 1st sem (enrolled) = 14
+380,631,0.20963643,Enrolled,Low,Course = 9853; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+381,1958,0.2087477,Dropout,Low,Mother's qualification = 12; GDP = 2.02; Curricular units 1st sem (enrolled) = 6
+382,3518,0.20733748,Dropout,Low,Course = 9254; Application mode = 42; Curricular units 1st sem (enrolled) = 6
+383,3275,0.20727062,Graduate,Low,Curricular units 1st sem (credited) = 10; Curricular units 1st sem (enrolled) = 15; Unemployment rate = 15.5
+384,3211,0.2063404,Enrolled,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (grade) = 0.0
+385,1776,0.20467058,Graduate,Low,Age at enrollment = 33; Curricular units 1st sem (credited) = 3; Gender = 1
+386,837,0.20376869,Enrolled,Low,Gender = 1; Curricular units 1st sem (enrolled) = 7; Course = 9556
+387,3284,0.2021635,Enrolled,Low,Debtor = 1; Gender = 1; Age at enrollment = 25
+388,2386,0.20156579,Enrolled,Low,Gender = 1; Displaced = 1; Curricular units 1st sem (enrolled) = 6
+389,799,0.20034173,Enrolled,Low,Course = 9853; Curricular units 1st sem (enrolled) = 6; Admission grade = 137.2
+390,1338,0.20033354,Dropout,Low,Course = 9130; Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 6
+391,2848,0.1999861,Dropout,Low,Age at enrollment = 54; Curricular units 1st sem (credited) = 13; Unemployment rate = 15.5
+392,4020,0.19659126,Dropout,Low,Curricular units 1st sem (approved) = 3; Inflation rate = -0.8; Curricular units 1st sem (evaluations) = 6
+393,2204,0.19542836,Graduate,Low,Unemployment rate = 16.2; Gender = 1; Curricular units 1st sem (enrolled) = 6
+394,1044,0.19470063,Graduate,Low,Unemployment rate = 13.9; Course = 9254; Curricular units 1st sem (enrolled) = 6
+395,1031,0.18745825,Enrolled,Low,Course = 9853; Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 6
+396,1005,0.18587692,Graduate,Low,Curricular units 1st sem (approved) = 3; Unemployment rate = 12.7; Displaced = 1
+397,1954,0.18432523,Enrolled,Low,Curricular units 1st sem (enrolled) = 8; Admission grade = 133.8; Displaced = 1
+398,1425,0.1840514,Graduate,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (grade) = 0.0
+399,3528,0.18321636,Dropout,Low,Gender = 1; Application mode = 18; Displaced = 1
+400,3350,0.18265487,Enrolled,Low,Age at enrollment = 26; Gender = 1; Previous qualification (grade) = 123.0
+401,1398,0.18257181,Graduate,Low,Age at enrollment = 31; Curricular units 1st sem (enrolled) = 7; Father's occupation = 9
+402,3501,0.18233255,Dropout,Low,Unemployment rate = 16.2; Age at enrollment = 45; Debtor = 1
+403,4177,0.17907508,Enrolled,Low,Age at enrollment = 27; Debtor = 1; Curricular units 1st sem (enrolled) = 6
+404,1395,0.17445762,Graduate,Low,Mother's qualification = 12; Course = 9254; Curricular units 1st sem (enrolled) = 6
+405,2873,0.17408906,Graduate,Low,Curricular units 1st sem (credited) = 9; Application mode = 42; Curricular units 1st sem (enrolled) = 15
+406,2593,0.17361757,Dropout,Low,Unemployment rate = 13.9; Age at enrollment = 26; Curricular units 1st sem (enrolled) = 7
+407,760,0.17296143,Graduate,Low,Curricular units 1st sem (credited) = 16; Age at enrollment = 27; Gender = 1
+408,233,0.17266703,Graduate,Low,Unemployment rate = 15.5; Course = 9254; Admission grade = 132.1
+409,2766,0.17158467,Graduate,Low,Age at enrollment = 27; Application mode = 7; Unemployment rate = 12.7
+410,2996,0.170729,Graduate,Low,Mother's occupation = 0; Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 6
+411,591,0.17000997,Enrolled,Low,Curricular units 1st sem (enrolled) = 7; Unemployment rate = 16.2; Application mode = 1
+412,1107,0.16927877,Graduate,Low,Debtor = 1; Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 7
+413,830,0.16908449,Dropout,Low,Course = 9254; Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 6
+414,176,0.16893427,Graduate,Low,Course = 9853; Age at enrollment = 27; Curricular units 1st sem (enrolled) = 6
+415,3736,0.16861749,Enrolled,Low,Gender = 1; Unemployment rate = 12.7; Age at enrollment = 24
+416,1321,0.16851878,Enrolled,Low,Course = 9853; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+417,2755,0.16838825,Graduate,Low,Curricular units 1st sem (credited) = 11; Age at enrollment = 37; Gender = 1
+418,189,0.1673585,Graduate,Low,Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+419,1837,0.16642565,Enrolled,Low,Age at enrollment = 39; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+420,2812,0.1662948,Graduate,Low,GDP = 2.02; Curricular units 1st sem (enrolled) = 7; Admission grade = 131.1
+421,2938,0.16511789,Enrolled,Low,Age at enrollment = 34; Mother's qualification = 37; Curricular units 1st sem (grade) = 11.0
+422,1756,0.16487499,Enrolled,Low,Curricular units 1st sem (credited) = 5; Curricular units 1st sem (enrolled) = 12; Gender = 1
+423,3158,0.16468276,Enrolled,Low,Father's occupation = 4; Course = 9254; Gender = 1
+424,2837,0.16306542,Enrolled,Low,Age at enrollment = 50; Curricular units 1st sem (approved) = 3; Curricular units 1st sem (without evaluations) = 1
+425,3237,0.16154703,Enrolled,Low,Curricular units 1st sem (approved) = 3; Father's occupation = 9; Displaced = 1
+426,1947,0.16083427,Graduate,Low,Unemployment rate = 12.7; Displaced = 1; Curricular units 1st sem (without evaluations) = 1
+427,323,0.16064139,Graduate,Low,Curricular units 1st sem (credited) = 3; Curricular units 1st sem (enrolled) = 10; Father's occupation = 9
+428,2870,0.15837406,Graduate,Low,Curricular units 1st sem (credited) = 12; Curricular units 1st sem (enrolled) = 17; Admission grade = 128.2
+429,664,0.15786693,Graduate,Low,Unemployment rate = 13.9; Gender = 1; Curricular units 1st sem (enrolled) = 7
+430,3312,0.1576958,Enrolled,Low,Age at enrollment = 31; Curricular units 1st sem (credited) = 2; Curricular units 1st sem (enrolled) = 6
+431,226,0.1564775,Graduate,Low,Age at enrollment = 45; Application mode = 7; Admission grade = 130.0
+432,738,0.15627332,Enrolled,Low,Curricular units 1st sem (credited) = 6; Curricular units 1st sem (enrolled) = 12; Gender = 1
+433,3402,0.15590738,Graduate,Low,Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 6; Course = 9773
+434,3633,0.1558104,Graduate,Low,Curricular units 1st sem (credited) = 5; Curricular units 1st sem (enrolled) = 10; Admission grade = 138.3
+435,4081,0.15578005,Enrolled,Low,Curricular units 1st sem (approved) = 2; Debtor = 1; Admission grade = 130.7
+436,3452,0.1553661,Graduate,Low,Application mode = 42; Father's occupation = 4; Unemployment rate = 12.7
+437,4269,0.15478258,Enrolled,Low,Gender = 1; Father's occupation = 4; Curricular units 1st sem (enrolled) = 6
+438,902,0.15392075,Graduate,Low,Age at enrollment = 27; Application mode = 7; Curricular units 1st sem (enrolled) = 8
+439,463,0.15336867,Graduate,Low,Debtor = 1; Age at enrollment = 24; Displaced = 1
+440,3730,0.15322733,Graduate,Low,Unemployment rate = 16.2; Gender = 1; Mother's occupation = 7
+441,3581,0.15267906,Graduate,Low,Debtor = 1; Gender = 1; Curricular units 1st sem (enrolled) = 7
+442,652,0.15244967,Graduate,Low,Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 8; Age at enrollment = 24
+443,3588,0.15130197,Graduate,Low,Unemployment rate = 13.9; Gender = 1; Application mode = 18
+444,3209,0.14981636,Graduate,Low,Gender = 1; Application mode = 18; Curricular units 1st sem (enrolled) = 6
+445,1919,0.14970824,Enrolled,Low,Debtor = 1; Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 6
+446,3972,0.14940661,Graduate,Low,Age at enrollment = 31; Father's occupation = 9; Previous qualification (grade) = 120.0
+447,2347,0.14918347,Graduate,Low,Gender = 1; Application mode = 18; Displaced = 1
+448,3640,0.14667839,Graduate,Low,GDP = 2.02; Father's occupation = 4; Curricular units 1st sem (enrolled) = 6
+449,4184,0.14473563,Graduate,Low,Mother's occupation = 0; Curricular units 1st sem (enrolled) = 6; Admission grade = 133.2
+450,300,0.14471035,Graduate,Low,GDP = 2.02; Curricular units 1st sem (enrolled) = 6; Unemployment rate = 11.1
+451,4392,0.14065835,Enrolled,Low,Admission grade = 138.4; Previous qualification (grade) = 151.0; Mother's qualification = 37
+452,2220,0.14027084,Graduate,Low,Unemployment rate = 12.7; Gender = 1; Curricular units 1st sem (enrolled) = 8
+453,1545,0.14016125,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Displaced = 1; Application mode = 17
+454,1789,0.1397016,Graduate,Low,Father's occupation = 4; Gender = 1; Course = 9254
+455,1815,0.13806596,Enrolled,Low,Unemployment rate = 16.2; Debtor = 1; Gender = 1
+456,547,0.13742803,Enrolled,Low,Gender = 1; Admission grade = 138.0; Curricular units 1st sem (enrolled) = 6
+457,215,0.13707544,Enrolled,Low,Unemployment rate = 15.5; Age at enrollment = 25; Curricular units 1st sem (enrolled) = 7
+458,3238,0.13561821,Graduate,Low,Father's occupation = 4; GDP = 2.02; Curricular units 1st sem (enrolled) = 7
+459,1518,0.13463193,Enrolled,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Unemployment rate = 13.9
+460,680,0.13278878,Graduate,Low,Unemployment rate = 13.9; Course = 9254; Curricular units 1st sem (enrolled) = 6
+461,74,0.13186473,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 6; Admission grade = 132.9
+462,3627,0.13173446,Enrolled,Low,Application order = 6; Father's occupation = 4; Curricular units 1st sem (enrolled) = 6
+463,869,0.12983307,Graduate,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (grade) = 0.0
+464,4150,0.12899716,Graduate,Low,Mother's occupation = 0; Mother's qualification = 34; Curricular units 1st sem (enrolled) = 6
+465,1969,0.12732537,Graduate,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+466,21,0.12710543,Enrolled,Low,Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 7; Application mode = 18
+467,2002,0.12702788,Graduate,Low,Age at enrollment = 28; Course = 9254; Curricular units 1st sem (enrolled) = 6
+468,2265,0.12688316,Enrolled,Low,Tuition fees up to date = 0; Gender = 1; Application mode = 18
+469,3734,0.12639625,Dropout,Low,Curricular units 1st sem (credited) = 5; Curricular units 1st sem (enrolled) = 9; Gender = 1
+470,1623,0.12585905,Dropout,Low,Age at enrollment = 47; Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 7
+471,2186,0.12549432,Enrolled,Low,Unemployment rate = 13.9; Father's occupation = 4; Curricular units 1st sem (without evaluations) = 1
+472,4204,0.12519868,Dropout,Low,Mother's occupation = 0; Mother's qualification = 34; Curricular units 1st sem (enrolled) = 6
+473,2610,0.12507996,Graduate,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 7; Admission grade = 132.8
+474,4316,0.12472005,Graduate,Low,Gender = 1; Displaced = 1; Curricular units 1st sem (enrolled) = 6
+475,2855,0.12464729,Dropout,Low,GDP = 2.02; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+476,1191,0.12430146,Graduate,Low,Application order = 6; Curricular units 1st sem (enrolled) = 8; Father's occupation = 4
+477,4061,0.12363078,Graduate,Low,Course = 9130; Unemployment rate = 12.7; Displaced = 1
+478,4416,0.1235535,Graduate,Low,Curricular units 1st sem (credited) = 11; Curricular units 1st sem (enrolled) = 14; Admission grade = 131.3
+479,3570,0.12314816,Graduate,Low,Gender = 1; Displaced = 1; Curricular units 1st sem (enrolled) = 6
+480,1439,0.12217031,Graduate,Low,Gender = 1; Displaced = 1; Mother's qualification = 38
+481,3226,0.122059196,Graduate,Low,Age at enrollment = 24; Curricular units 1st sem (enrolled) = 6; Father's occupation = 9
+482,618,0.121171325,Graduate,Low,GDP = 2.02; Curricular units 1st sem (enrolled) = 7; Application mode = 17
+483,3740,0.12054393,Dropout,Low,Gender = 1; Curricular units 1st sem (enrolled) = 6; Age at enrollment = 24
+484,421,0.11826296,Graduate,Low,Curricular units 1st sem (credited) = 4; Age at enrollment = 30; Application mode = 42
+485,2496,0.11701097,Graduate,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Gender = 1
+486,3029,0.116786696,Graduate,Low,Application order = 6; Admission grade = 132.0; Displaced = 1
+487,696,0.11655827,Graduate,Low,Mother's occupation = 0; Age at enrollment = 45; Gender = 1
+488,1457,0.114567176,Enrolled,Low,Gender = 1; Application order = 6; Curricular units 1st sem (enrolled) = 7
+489,1550,0.11327662,Graduate,Low,Mother's occupation = 0; Curricular units 1st sem (credited) = 11; Mother's qualification = 34
+490,1893,0.11323868,Enrolled,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Curricular units 1st sem (grade) = 0.0
+491,1836,0.11300086,Graduate,Low,Curricular units 1st sem (credited) = 9; Age at enrollment = 34; Curricular units 1st sem (enrolled) = 11
+492,18,0.11146754,Graduate,Low,Course = 9130; Displaced = 1; Admission grade = 136.3
+493,2749,0.11122895,Dropout,Low,Age at enrollment = 47; Gender = 1; Mother's qualification = 37
+494,641,0.11088688,Enrolled,Low,Curricular units 1st sem (approved) = 3; Application order = 6; Father's occupation = 9
+495,849,0.11083078,Graduate,Low,Curricular units 1st sem (credited) = 3; GDP = 2.02; Application order = 6
+496,273,0.11059582,Graduate,Low,GDP = 2.02; Curricular units 1st sem (enrolled) = 7; Curricular units 1st sem (credited) = 2
+497,662,0.11020485,Graduate,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+498,108,0.10898461,Dropout,Low,Curricular units 1st sem (credited) = 2; Curricular units 1st sem (enrolled) = 7; Application order = 5
+499,3553,0.10713564,Dropout,Low,Gender = 1; Debtor = 1; Displaced = 1
+500,3128,0.10625772,Graduate,Low,Debtor = 1; Curricular units 1st sem (evaluations) = 5; Application order = 6
+501,1892,0.10531963,Dropout,Low,Course = 9130; Displaced = 1; Father's occupation = 3
+502,2965,0.10487785,Graduate,Low,Mother's occupation = 7; Admission grade = 131.1; Displaced = 1
+503,2607,0.104738936,Dropout,Low,Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+504,1680,0.10459087,Enrolled,Low,Curricular units 1st sem (approved) = 3; Gender = 1; Displaced = 1
+505,2048,0.10422092,Graduate,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 7; Admission grade = 134.5
+506,654,0.104207285,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Father's qualification = 38; Scholarship holder = 0
+507,2664,0.10405899,Graduate,Low,Age at enrollment = 45; Gender = 1; Previous qualification (grade) = 120.0
+508,3970,0.10239235,Graduate,Low,Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 6; Admission grade = 131.7
+509,1813,0.10163718,Graduate,Low,Gender = 1; Unemployment rate = 13.9; Displaced = 1
+510,4386,0.10089054,Dropout,Low,Curricular units 1st sem (approved) = 3; Displaced = 1; Application mode = 17
+511,2401,0.10058281,Graduate,Low,Age at enrollment = 52; Gender = 1; Father's occupation = 9
+512,3276,0.100316964,Dropout,Low,Curricular units 1st sem (credited) = 10; Age at enrollment = 34; Curricular units 1st sem (enrolled) = 12
+513,1802,0.100066565,Graduate,Low,Gender = 1; Unemployment rate = 12.4; Father's qualification = 1
+514,976,0.09983387,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 7; Age at enrollment = 24
+515,2777,0.09956423,Enrolled,Low,Unemployment rate = 12.7; Curricular units 1st sem (evaluations) = 5; Displaced = 1
+516,4334,0.099124044,Graduate,Low,Unemployment rate = 15.5; Course = 9254; Curricular units 1st sem (enrolled) = 6
+517,2398,0.09780521,Graduate,Low,Unemployment rate = 13.9; Gender = 1; Curricular units 1st sem (enrolled) = 6
+518,1783,0.09779619,Enrolled,Low,Gender = 1; Displaced = 1; Debtor = 1
+519,1097,0.096958,Graduate,Low,Course = 9254; Curricular units 1st sem (enrolled) = 6; Admission grade = 133.9
+520,2973,0.09606926,Graduate,Low,Application order = 6; Displaced = 1; Father's occupation = 9
+521,2399,0.09553809,Graduate,Low,Unemployment rate = 16.2; Gender = 1; Curricular units 1st sem (enrolled) = 7
+522,1181,0.09452464,Graduate,Low,Unemployment rate = 12.7; Displaced = 1; Curricular units 1st sem (without evaluations) = 1
+523,370,0.09414612,Graduate,Low,Curricular units 1st sem (credited) = 7; Age at enrollment = 50; Unemployment rate = 16.2
+524,3136,0.093916535,Graduate,Low,Unemployment rate = 12.7; Curricular units 1st sem (without evaluations) = 1; Displaced = 1
+525,3918,0.09293512,Enrolled,Low,Curricular units 1st sem (approved) = 3; Displaced = 1; Previous qualification (grade) = 119.0
+526,230,0.09276952,Graduate,Low,Course = 9254; Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 6
+527,2507,0.09265045,Graduate,Low,Age at enrollment = 37; Unemployment rate = 13.9; Gender = 1
+528,1397,0.09219208,Graduate,Low,Mother's qualification = 12; Debtor = 1; Curricular units 1st sem (enrolled) = 7
+529,248,0.09160899,Graduate,Low,Course = 9254; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+530,4247,0.09092332,Graduate,Low,Age at enrollment = 37; Debtor = 1; Curricular units 1st sem (enrolled) = 6
+531,52,0.09030871,Enrolled,Low,Curricular units 1st sem (enrolled) = 6; Mother's occupation = 7; Displaced = 1
+532,1523,0.09006413,Dropout,Low,Gender = 1; Mother's occupation = 7; Father's occupation = 4
+533,555,0.08906391,Dropout,Low,Curricular units 1st sem (credited) = 9; Gender = 1; Unemployment rate = 15.5
+534,2484,0.08831483,Graduate,Low,Age at enrollment = 45; Unemployment rate = 15.5; Gender = 1
+535,673,0.0881464,Graduate,Low,Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+536,3834,0.08765964,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Gender = 1; Father's occupation = 4
+537,77,0.086032316,Graduate,Low,Gender = 1; Displaced = 1; Curricular units 1st sem (enrolled) = 6
+538,598,0.08575544,Graduate,Low,Father's occupation = 4; Mother's occupation = 7; Admission grade = 134.3
+539,2868,0.085447565,Enrolled,Low,Age at enrollment = 41; Admission grade = 140.0; Curricular units 1st sem (without evaluations) = 1
+540,355,0.085189864,Graduate,Low,GDP = 2.02; Displaced = 1; Curricular units 1st sem (enrolled) = 6
+541,3134,0.08507643,Enrolled,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 7; Admission grade = 135.4
+542,2710,0.084869705,Graduate,Low,Course = 9254; Previous qualification (grade) = 116.0; Curricular units 1st sem (enrolled) = 6
+543,1761,0.083931275,Dropout,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Unemployment rate = 12.7
+544,1502,0.083693795,Graduate,Low,Age at enrollment = 33; Gender = 1; Displaced = 1
+545,629,0.08336261,Graduate,Low,Admission grade = 131.6; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+546,2213,0.08334243,Dropout,Low,Unemployment rate = 16.2; Gender = 1; Curricular units 1st sem (enrolled) = 6
+547,2952,0.081728116,Enrolled,Low,Age at enrollment = 35; Father's occupation = 9; Application order = 2
+548,54,0.081438094,Dropout,Low,Age at enrollment = 27; Father's occupation = 9; Mother's qualification = 38
+549,429,0.08133471,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Unemployment rate = 11.1; GDP = 2.02
+550,1577,0.081029266,Enrolled,Low,Age at enrollment = 28; Scholarship holder = 0; Marital Status = 1
+551,540,0.08089075,Graduate,Low,Age at enrollment = 28; Unemployment rate = 16.2; Gender = 1
+552,3719,0.08032773,Dropout,Low,Unemployment rate = 12.7; Gender = 1; Curricular units 1st sem (enrolled) = 6
+553,1956,0.08027948,Enrolled,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+554,658,0.079723425,Graduate,Low,Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 6; Curricular units 1st sem (evaluations) = 6
+555,30,0.07964826,Enrolled,Low,Unemployment rate = 16.2; Gender = 1; Curricular units 1st sem (enrolled) = 6
+556,1817,0.07952809,Graduate,Low,Age at enrollment = 25; Curricular units 1st sem (enrolled) = 6; Admission grade = 129.0
+557,1472,0.07947595,Graduate,Low,Unemployment rate = 16.2; Gender = 1; Curricular units 1st sem (enrolled) = 6
+558,2121,0.07946519,Graduate,Low,Debtor = 1; Unemployment rate = 13.9; GDP = 0.79
+559,3902,0.07938023,Enrolled,Low,Age at enrollment = 35; Admission grade = 131.8; Curricular units 1st sem (evaluations) = 6
+560,2724,0.0784027,Graduate,Low,Curricular units 1st sem (enrolled) = 8; Mother's occupation = 7; Admission grade = 160.0
+561,4126,0.07819413,Enrolled,Low,Curricular units 1st sem (approved) = 3; Admission grade = 129.1; Mother's qualification = 38
+562,1738,0.07802549,Graduate,Low,Age at enrollment = 27; Gender = 1; Admission grade = 130.0
+563,2990,0.077711135,Graduate,Low,Course = 9130; Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 6
+564,2800,0.07750434,Graduate,Low,Course = 9254; Displaced = 1; Curricular units 1st sem (enrolled) = 6
+565,1735,0.07732479,Graduate,Low,Unemployment rate = 16.2; Gender = 1; Curricular units 1st sem (credited) = 2
+566,4131,0.07707982,Graduate,Low,Curricular units 1st sem (enrolled) = 8; Age at enrollment = 25; Previous qualification (grade) = 123.0
+567,2839,0.07673216,Graduate,Low,GDP = 3.51; Admission grade = 134.7; Displaced = 1
+568,2851,0.07664985,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Course = 9773; Displaced = 1
+569,168,0.07563661,Graduate,Low,Age at enrollment = 29; Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 8
+570,806,0.074706644,Graduate,Low,Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+571,383,0.07449575,Graduate,Low,Course = 9853; Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 6
+572,335,0.07445037,Graduate,Low,Curricular units 1st sem (credited) = 3; Unemployment rate = 13.9; Mother's occupation = 7
+573,809,0.07415658,Enrolled,Low,Curricular units 1st sem (enrolled) = 6; Application order = 5; Displaced = 1
+574,3394,0.073202364,Enrolled,Low,Displaced = 1; Father's qualification = 19; Mother's qualification = 38
+575,2834,0.07267484,Graduate,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 6; Age at enrollment = 24
+576,3580,0.072455466,Graduate,Low,Unemployment rate = 13.9; Gender = 1; Displaced = 1
+577,2018,0.07219968,Enrolled,Low,Course = 9254; Displaced = 1; Curricular units 1st sem (enrolled) = 6
+578,815,0.0720998,Enrolled,Low,Father's occupation = 4; GDP = 2.02; Unemployment rate = 11.1
+579,777,0.07206484,Dropout,Low,Curricular units 1st sem (credited) = 6; Curricular units 1st sem (enrolled) = 12; GDP = 3.51
+580,1346,0.07121523,Graduate,Low,Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+581,464,0.070334494,Enrolled,Low,Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 6; Admission grade = 129.8
+582,3442,0.070334285,Graduate,Low,Course = 9254; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+583,3392,0.070006415,Graduate,Low,Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 6; Father's occupation = 9
+584,3280,0.0697451,Graduate,Low,Unemployment rate = 15.5; Mother's occupation = 7; Curricular units 1st sem (enrolled) = 7
+585,1158,0.069618374,Graduate,Low,Unemployment rate = 15.5; Course = 9773; Curricular units 1st sem (enrolled) = 6
+586,3080,0.069208756,Graduate,Low,Age at enrollment = 27; Gender = 1; Previous qualification (grade) = 120.0
+587,3105,0.068239905,Dropout,Low,Age at enrollment = 29; Previous qualification (grade) = 120.0; Father's occupation = 4
+588,2246,0.06820488,Enrolled,Low,Unemployment rate = 15.5; Gender = 1; Curricular units 1st sem (enrolled) = 7
+589,3447,0.068179086,Graduate,Low,Curricular units 1st sem (approved) = 0; Curricular units 1st sem (evaluations) = 0; Unemployment rate = 13.9
+590,750,0.067988776,Graduate,Low,Curricular units 1st sem (evaluations) = 5; Displaced = 1; Mother's qualification = 38
+591,2639,0.067889385,Graduate,Low,Curricular units 1st sem (credited) = 14; Gender = 1; Curricular units 1st sem (enrolled) = 17
+592,2259,0.06752795,Graduate,Low,Age at enrollment = 41; Unemployment rate = 12.7; Gender = 1
+593,3130,0.0673903,Graduate,Low,Father's occupation = 4; Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 6
+594,3587,0.06732266,Graduate,Low,Curricular units 1st sem (credited) = 6; Gender = 1; Curricular units 1st sem (enrolled) = 12
+595,3783,0.066294976,Enrolled,Low,Father's occupation = 4; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+596,1454,0.066209175,Enrolled,Low,Gender = 1; Previous qualification (grade) = 121.0; Scholarship holder = 0
+597,731,0.06600279,Graduate,Low,Unemployment rate = 13.9; Gender = 1; Curricular units 1st sem (enrolled) = 6
+598,1974,0.06562842,Graduate,Low,Curricular units 1st sem (enrolled) = 7; Admission grade = 131.6; Displaced = 1
+599,1508,0.06539912,Graduate,Low,Curricular units 1st sem (credited) = 9; Gender = 1; Unemployment rate = 15.5
+600,2691,0.065350786,Graduate,Low,Unemployment rate = 16.2; Gender = 1; Father's qualification = 4
+601,4013,0.06506721,Graduate,Low,GDP = 2.02; Admission grade = 137.8; Curricular units 1st sem (enrolled) = 7
+602,2164,0.064996935,Graduate,Low,Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 6; Course = 9773
+603,2806,0.06495554,Graduate,Low,Application mode = 18; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+604,2726,0.06491485,Graduate,Low,Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+605,4286,0.06422976,Graduate,Low,Gender = 1; Displaced = 1; Father's occupation = 9
+606,4396,0.06411947,Graduate,Low,GDP = 2.02; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+607,4195,0.064101994,Graduate,Low,Course = 9254; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+608,2373,0.06402295,Enrolled,Low,Gender = 1; Displaced = 1; Curricular units 1st sem (enrolled) = 6
+609,713,0.06377045,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 8; Admission grade = 129.0
+610,3230,0.06353184,Graduate,Low,Unemployment rate = 12.7; Father's occupation = 4; Curricular units 1st sem (enrolled) = 8
+611,1199,0.06306203,Graduate,Low,Application mode = 7; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+612,4112,0.06305585,Graduate,Low,Curricular units 1st sem (enrolled) = 8; Mother's occupation = 7; Mother's qualification = 38
+613,1401,0.06301754,Graduate,Low,Course = 9254; GDP = 3.51; Curricular units 1st sem (enrolled) = 6
+614,3070,0.06288997,Enrolled,Low,Gender = 1; Displaced = 1; Curricular units 1st sem (enrolled) = 6
+615,3620,0.062354006,Dropout,Low,Curricular units 1st sem (enrolled) = 6; GDP = 2.02; Unemployment rate = 11.1
+616,3917,0.062343016,Graduate,Low,Course = 9853; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+617,3104,0.06219448,Graduate,Low,GDP = 2.02; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+618,747,0.062029958,Graduate,Low,Age at enrollment = 28; Curricular units 1st sem (credited) = 13; Gender = 1
+619,880,0.06191025,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 6; Admission grade = 129.9
+620,3814,0.06176151,Graduate,Low,Father's occupation = 90; Curricular units 1st sem (credited) = 8; Curricular units 1st sem (enrolled) = 10
+621,1141,0.061566222,Enrolled,Low,Unemployment rate = 12.7; Curricular units 1st sem (evaluations) = 5; Application order = 6
+622,611,0.06145813,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Age at enrollment = 24; Displaced = 1
+623,3241,0.06118535,Graduate,Low,Curricular units 1st sem (credited) = 9; Age at enrollment = 34; Curricular units 1st sem (enrolled) = 16
+624,1347,0.060977448,Enrolled,Low,Mother's occupation = 7; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+625,3653,0.059767436,Enrolled,Low,Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+626,3971,0.059755486,Graduate,Low,Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+627,2550,0.05948214,Graduate,Low,Curricular units 1st sem (credited) = 8; Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 16
+628,2431,0.059133887,Graduate,Low,Gender = 1; GDP = 3.51; Curricular units 1st sem (evaluations) = 5
+629,4041,0.05885265,Graduate,Low,Unemployment rate = 15.5; Father's occupation = 4; Curricular units 1st sem (enrolled) = 6
+630,3796,0.058849875,Graduate,Low,Course = 9254; Curricular units 1st sem (enrolled) = 6; Gender = 1
+631,3249,0.05875684,Graduate,Low,Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 6; Admission grade = 154.4
+632,1418,0.05830573,Graduate,Low,Curricular units 1st sem (evaluations) = 5; Displaced = 1; Application mode = 17
+633,2113,0.058194444,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Displaced = 1; Mother's qualification = 38
+634,1468,0.05809787,Graduate,Low,GDP = 2.02; Gender = 1; Curricular units 1st sem (enrolled) = 6
+635,1100,0.05795491,Dropout,Low,Displaced = 1; Curricular units 1st sem (without evaluations) = 3; Previous qualification (grade) = 122.0
+636,1250,0.057772987,Graduate,Low,Course = 9254; GDP = 2.02; Curricular units 1st sem (enrolled) = 6
+637,4135,0.05773119,Graduate,Low,Age at enrollment = 28; Displaced = 1; Curricular units 1st sem (enrolled) = 6
+638,475,0.05762264,Graduate,Low,Displaced = 1; Previous qualification (grade) = 122.0; Father's qualification = 19
+639,4217,0.057263613,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Course = 9773; Admission grade = 128.2
+640,1150,0.057261817,Graduate,Low,Mother's qualification = 12; GDP = 3.51; Curricular units 1st sem (enrolled) = 6
+641,3285,0.057250652,Graduate,Low,Age at enrollment = 36; Gender = 1; Unemployment rate = 12.7
+642,1336,0.057076283,Enrolled,Low,Age at enrollment = 27; Curricular units 1st sem (enrolled) = 7; Father's qualification = 38
+643,3921,0.05700277,Graduate,Low,Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 7; Application order = 4
+644,3561,0.05667948,Graduate,Low,Gender = 1; Course = 9773; Curricular units 1st sem (enrolled) = 6
+645,3002,0.05663886,Dropout,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 6; Admission grade = 129.0
+646,2045,0.055848207,Graduate,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 7; Application order = 2
+647,3678,0.05525349,Graduate,Low,Unemployment rate = 13.9; Displaced = 1; Curricular units 1st sem (enrolled) = 6
+648,2134,0.055032834,Graduate,Low,Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 8; Displaced = 1
+649,2297,0.05488427,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 6; Father's qualification = 5
+650,3978,0.054857843,Graduate,Low,Course = 9853; Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 7
+651,1009,0.05470636,Graduate,Low,Curricular units 1st sem (enrolled) = 6; GDP = 2.02; Displaced = 1
+652,4128,0.054695256,Graduate,Low,Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 12; Displaced = 1
+653,2978,0.05407846,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Displaced = 1; Application order = 3
+654,4325,0.053909115,Graduate,Low,Curricular units 1st sem (credited) = 8; Age at enrollment = 32; Curricular units 1st sem (enrolled) = 14
+655,617,0.052852623,Graduate,Low,Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+656,4320,0.052622333,Enrolled,Low,Curricular units 1st sem (approved) = 3; Gender = 1; Admission grade = 135.0
+657,4093,0.05147298,Graduate,Low,Unemployment rate = 15.5; Mother's occupation = 7; Curricular units 1st sem (enrolled) = 6
+658,289,0.0512623,Graduate,Low,Curricular units 1st sem (enrolled) = 8; Age at enrollment = 24; Displaced = 1
+659,3685,0.051251303,Dropout,Low,Unemployment rate = 15.5; Gender = 1; Age at enrollment = 24
+660,3908,0.051225405,Graduate,Low,Age at enrollment = 42; Curricular units 1st sem (enrolled) = 6; Mother's qualification = 38
+661,2880,0.05033404,Graduate,Low,Age at enrollment = 47; Admission grade = 134.5; Curricular units 1st sem (enrolled) = 6
+662,3598,0.050160035,Graduate,Low,Admission grade = 137.0; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+663,3263,0.04985095,Graduate,Low,Displaced = 1; Curricular units 1st sem (evaluations) = 6; Mother's qualification = 37
+664,3507,0.04963781,Graduate,Low,Gender = 1; Inflation rate = -0.8; Father's occupation = 9
+665,138,0.04960679,Enrolled,Low,Curricular units 1st sem (enrolled) = 7; GDP = 2.02; Unemployment rate = 11.1
+666,865,0.04914569,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+667,364,0.048930768,Enrolled,Low,Curricular units 1st sem (enrolled) = 7; Displaced = 1; Admission grade = 133.0
+668,286,0.048773136,Enrolled,Low,Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 6; Previous qualification (grade) = 123.0
+669,3942,0.04870094,Graduate,Low,Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+670,565,0.048230607,Graduate,Low,Age at enrollment = 27; Gender = 1; Father's occupation = 9
+671,2211,0.04787209,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+672,167,0.047449894,Graduate,Low,Unemployment rate = 13.9; Mother's occupation = 7; Curricular units 1st sem (enrolled) = 6
+673,1271,0.047074024,Graduate,Low,Unemployment rate = 16.2; Curricular units 1st sem (evaluations) = 5; Admission grade = 129.7
+674,3458,0.046260014,Graduate,Low,Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 6; Application mode = 17
+675,770,0.04620271,Graduate,Low,GDP = 2.02; Admission grade = 133.0; Displaced = 1
+676,1075,0.044916183,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Displaced = 1; Course = 9773
+677,4175,0.044660293,Graduate,Low,Curricular units 1st sem (enrolled) = 8; Unemployment rate = 12.7; Admission grade = 129.3
+678,260,0.04457277,Graduate,Low,Unemployment rate = 15.5; Course = 9254; Curricular units 1st sem (enrolled) = 6
+679,2291,0.044425145,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 6; Mother's qualification = 37
+680,2271,0.044381358,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+681,1171,0.04412494,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 8; Displaced = 1
+682,2927,0.043905344,Graduate,Low,Displaced = 1; Admission grade = 130.0; Scholarship holder = 0
+683,1852,0.043720633,Graduate,Low,Unemployment rate = 16.2; Gender = 1; Father's occupation = 3
+684,2828,0.043453038,Enrolled,Low,Curricular units 1st sem (enrolled) = 6; Displaced = 1; Admission grade = 136.4
+685,3621,0.04334603,Graduate,Low,GDP = 2.02; Admission grade = 131.9; Curricular units 1st sem (enrolled) = 7
+686,4026,0.043330833,Graduate,Low,Curricular units 1st sem (credited) = 8; Age at enrollment = 41; Unemployment rate = 15.5
+687,408,0.043245696,Graduate,Low,Unemployment rate = 15.5; Father's occupation = 4; Curricular units 1st sem (enrolled) = 6
+688,2768,0.04299296,Graduate,Low,Unemployment rate = 15.5; Displaced = 1; Previous qualification (grade) = 124.0
+689,26,0.04284945,Graduate,Low,Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 6; Mother's occupation = 7
+690,1637,0.04281726,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 7; Father's occupation = 4
+691,4205,0.041925903,Graduate,Low,Curricular units 1st sem (enrolled) = 7; Admission grade = 134.8; Displaced = 1
+692,3361,0.041782945,Graduate,Low,GDP = 3.51; Admission grade = 130.6; Curricular units 1st sem (enrolled) = 6
+693,4230,0.041741673,Graduate,Low,Age at enrollment = 28; Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 7
+694,1648,0.041681666,Dropout,Low,Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 7; Application order = 5
+695,431,0.04161543,Graduate,Low,Age at enrollment = 27; Unemployment rate = 15.5; Mother's occupation = 7
+696,3645,0.041332953,Graduate,Low,Curricular units 1st sem (enrolled) = 6; GDP = 2.02; Displaced = 1
+697,3423,0.04133261,Dropout,Low,Age at enrollment = 30; Unemployment rate = 12.7; Curricular units 1st sem (evaluations) = 5
+698,1692,0.041247144,Graduate,Low,Unemployment rate = 16.2; Gender = 1; Curricular units 1st sem (enrolled) = 7
+699,208,0.04109325,Graduate,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+700,1383,0.040919658,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+701,4062,0.04073306,Graduate,Low,Curricular units 1st sem (credited) = 7; Curricular units 1st sem (enrolled) = 11; GDP = 3.51
+702,2157,0.04070498,Graduate,Low,Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+703,4022,0.040016975,Graduate,Low,Application mode = 18; Displaced = 1; Previous qualification (grade) = 160.0
+704,2146,0.039994165,Graduate,Low,Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 6; Admission grade = 131.1
+705,2054,0.039850418,Graduate,Low,Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+706,492,0.039259717,Graduate,Low,Application order = 6; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+707,416,0.038917206,Graduate,Low,Unemployment rate = 15.5; Displaced = 1; Curricular units 1st sem (enrolled) = 6
+708,499,0.038878303,Graduate,Low,Curricular units 1st sem (enrolled) = 8; Mother's occupation = 7; Admission grade = 131.5
+709,4018,0.03867391,Graduate,Low,Unemployment rate = 13.9; Course = 9254; Curricular units 1st sem (enrolled) = 6
+710,925,0.038418777,Graduate,Low,Age at enrollment = 26; Curricular units 1st sem (enrolled) = 7; Admission grade = 133.0
+711,245,0.03782662,Graduate,Low,Application mode = 7; Curricular units 1st sem (enrolled) = 8; Admission grade = 130.0
+712,1618,0.03760606,Dropout,Low,GDP = 2.02; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+713,4129,0.037433658,Graduate,Low,Mother's occupation = 7; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+714,4209,0.03739918,Graduate,Low,Gender = 1; Curricular units 1st sem (evaluations) = 5; Admission grade = 134.6
+715,3003,0.03685999,Dropout,Low,Father's occupation = 4; Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 7
+716,2736,0.03685377,Graduate,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+717,2133,0.03661729,Graduate,Low,Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+718,1566,0.03641389,Graduate,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 7; Admission grade = 130.7
+719,1829,0.036152434,Enrolled,Low,Unemployment rate = 13.9; Mother's qualification = 38; Inflation rate = -0.3
+720,214,0.03591022,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Previous qualification (grade) = 122.0; Course = 9773
+721,1993,0.035901573,Graduate,Low,GDP = 2.02; Unemployment rate = 11.1; Mother's qualification = 37
+722,3919,0.03560477,Graduate,Low,Curricular units 1st sem (enrolled) = 8; Displaced = 1; Application mode = 17
+723,633,0.035542965,Graduate,Low,Debtor = 1; Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 7
+724,3895,0.035450496,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+725,4003,0.03531087,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 7; Admission grade = 136.3
+726,985,0.034552217,Graduate,Low,Unemployment rate = 12.7; Gender = 1; Curricular units 1st sem (enrolled) = 8
+727,3082,0.034339875,Graduate,Low,Curricular units 1st sem (credited) = 6; Curricular units 1st sem (enrolled) = 12; Mother's occupation = 7
+728,921,0.034099158,Graduate,Low,Age at enrollment = 35; Curricular units 1st sem (enrolled) = 6; Father's occupation = 9
+729,4166,0.033967756,Enrolled,Low,Application mode = 18; Mother's qualification = 38; Curricular units 1st sem (evaluations) = 6
+730,3929,0.03378623,Enrolled,Low,Age at enrollment = 24; Admission grade = 135.4; Curricular units 1st sem (enrolled) = 6
+731,1119,0.033759534,Graduate,Low,Curricular units 1st sem (enrolled) = 7; Father's occupation = 9; Admission grade = 129.5
+732,244,0.03347576,Graduate,Low,Curricular units 1st sem (credited) = 5; Curricular units 1st sem (enrolled) = 10; Mother's qualification = 38
+733,413,0.033460546,Graduate,Low,Curricular units 1st sem (credited) = 3; Application mode = 7; Curricular units 1st sem (evaluations) = 5
+734,3997,0.032751143,Graduate,Low,Age at enrollment = 37; Curricular units 1st sem (enrolled) = 7; Previous qualification = 19
+735,776,0.032579627,Graduate,Low,Father's occupation = 4; Curricular units 1st sem (enrolled) = 6; Mother's occupation = 4
+736,156,0.03257023,Graduate,Low,Curricular units 1st sem (evaluations) = 5; Mother's qualification = 38; Unemployment rate = 12.4
+737,1314,0.032069836,Enrolled,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+738,1149,0.03194881,Graduate,Low,Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 8; Father's occupation = 4
+739,41,0.031912547,Graduate,Low,Curricular units 1st sem (evaluations) = 5; GDP = 3.51; Displaced = 1
+740,84,0.031902447,Graduate,Low,Age at enrollment = 33; Displaced = 1; Curricular units 1st sem (enrolled) = 6
+741,4178,0.03177077,Graduate,Low,Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 7; Father's occupation = 9
+742,4371,0.031635724,Graduate,Low,Gender = 1; Application order = 6; Curricular units 1st sem (enrolled) = 7
+743,3675,0.03145689,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Displaced = 1; Application mode = 17
+744,3100,0.03101002,Graduate,Low,Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 7; Mother's qualification = 38
+745,977,0.030872324,Graduate,Low,Gender = 1; Admission grade = 127.1; Age at enrollment = 23
+746,4149,0.030848516,Graduate,Low,Curricular units 1st sem (credited) = 11; Curricular units 1st sem (enrolled) = 14; Curricular units 1st sem (without evaluations) = 1
+747,1846,0.030322261,Dropout,Low,Unemployment rate = 13.9; Gender = 1; Curricular units 1st sem (enrolled) = 6
+748,1315,0.030279433,Graduate,Low,Curricular units 1st sem (enrolled) = 7; Admission grade = 129.8; Displaced = 1
+749,1973,0.030097593,Graduate,Low,Unemployment rate = 12.7; Previous qualification (grade) = 122.0; Application mode = 17
+750,1657,0.030072423,Enrolled,Low,Admission grade = 129.0; Application order = 2; Mother's qualification = 37
+751,3017,0.02976215,Graduate,Low,GDP = 2.02; Curricular units 1st sem (enrolled) = 7; Unemployment rate = 11.1
+752,2770,0.02945952,Graduate,Low,Unemployment rate = 12.7; Application order = 6; Curricular units 1st sem (enrolled) = 7
+753,2066,0.02931627,Graduate,Low,Course = 9254; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+754,3885,0.02920214,Graduate,Low,Application mode = 18; Curricular units 1st sem (enrolled) = 6; Mother's qualification = 38
+755,839,0.028903475,Graduate,Low,Gender = 1; Curricular units 1st sem (evaluations) = 5; Displaced = 1
+756,2091,0.028730389,Enrolled,Low,Curricular units 1st sem (without evaluations) = 2; Displaced = 1; Application order = 3
+757,2107,0.028694477,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Displaced = 1; Admission grade = 142.5
+758,418,0.028519444,Graduate,Low,Curricular units 1st sem (enrolled) = 7; Displaced = 1; Application order = 4
+759,3303,0.028504277,Graduate,Low,Curricular units 1st sem (evaluations) = 5; Admission grade = 132.6; Displaced = 1
+760,1010,0.028454132,Graduate,Low,Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+761,3891,0.028425585,Enrolled,Low,GDP = 3.51; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+762,2049,0.028217524,Graduate,Low,Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 8; Displaced = 1
+763,1899,0.028020639,Graduate,Low,Curricular units 1st sem (credited) = 7; Curricular units 1st sem (enrolled) = 11; GDP = 3.51
+764,2467,0.027677236,Enrolled,Low,Unemployment rate = 15.5; Gender = 1; Curricular units 1st sem (enrolled) = 6
+765,3212,0.027515061,Graduate,Low,Course = 9254; Gender = 1; Curricular units 1st sem (enrolled) = 6
+766,890,0.027361402,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Course = 9773; Displaced = 1
+767,2126,0.02725291,Dropout,Low,Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+768,2310,0.027244609,Graduate,Low,Unemployment rate = 13.9; Gender = 1; Curricular units 1st sem (enrolled) = 6
+769,1853,0.026837695,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+770,2082,0.026795521,Graduate,Low,Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+771,1053,0.026541604,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Displaced = 1; Admission grade = 140.0
+772,1656,0.02643711,Graduate,Low,Unemployment rate = 16.2; Father's occupation = 4; Curricular units 1st sem (evaluations) = 6
+773,3034,0.025935119,Graduate,Low,Curricular units 1st sem (without evaluations) = 2; Admission grade = 130.6; Father's qualification = 4
+774,256,0.025852734,Graduate,Low,Age at enrollment = 29; Unemployment rate = 16.2; Application mode = 17
+775,1264,0.025545068,Graduate,Low,Unemployment rate = 12.7; Application mode = 18; Curricular units 1st sem (enrolled) = 8
+776,423,0.025464825,Graduate,Low,Application order = 6; Curricular units 1st sem (enrolled) = 8; Admission grade = 131.5
+777,1663,0.025338106,Graduate,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 7; Admission grade = 143.3
+778,4317,0.024915421,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 6; Application mode = 17
+779,1017,0.024739107,Graduate,Low,Curricular units 1st sem (credited) = 5; Curricular units 1st sem (enrolled) = 11; GDP = 2.02
+780,2791,0.024328182,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 6; Mother's qualification = 38
+781,2062,0.024260568,Graduate,Low,Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 8; Displaced = 1
+782,3897,0.024135891,Graduate,Low,Gender = 1; Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 7
+783,1438,0.023743179,Graduate,Low,Application mode = 18; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+784,1212,0.023730736,Graduate,Low,Age at enrollment = 35; Curricular units 1st sem (enrolled) = 8; Father's occupation = 4
+785,459,0.023687582,Graduate,Low,Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 6; Application mode = 17
+786,85,0.023569273,Graduate,Low,Application mode = 42; Curricular units 1st sem (enrolled) = 8; Displaced = 1
+787,3098,0.023352038,Enrolled,Low,Admission grade = 135.9; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+788,308,0.023349639,Graduate,Low,Father's occupation = 90; Curricular units 1st sem (evaluations) = 5; Application order = 3
+789,1811,0.022941947,Graduate,Low,Application order = 6; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+790,2548,0.022814771,Graduate,Low,Gender = 1; Displaced = 1; Curricular units 1st sem (enrolled) = 6
+791,201,0.022814646,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Displaced = 1; Application order = 4
+792,1041,0.022689717,Graduate,Low,Application order = 6; Curricular units 1st sem (enrolled) = 8; Application mode = 18
+793,3301,0.02257215,Graduate,Low,GDP = 2.02; Admission grade = 130.4; Curricular units 1st sem (enrolled) = 7
+794,3308,0.022207815,Graduate,Low,Application order = 6; Curricular units 1st sem (enrolled) = 8; Father's occupation = 4
+795,3222,0.022147946,Graduate,Low,GDP = 2.02; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+796,796,0.02204996,Graduate,Low,Curricular units 1st sem (enrolled) = 7; Curricular units 1st sem (credited) = 2; Displaced = 1
+797,2841,0.022039486,Graduate,Low,Age at enrollment = 46; Curricular units 1st sem (credited) = 14; Unemployment rate = 15.5
+798,820,0.022034353,Graduate,Low,Unemployment rate = 13.9; Displaced = 1; Application mode = 1
+799,773,0.022033764,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Admission grade = 129.4; Displaced = 1
+800,351,0.02189669,Graduate,Low,Admission grade = 134.0; Curricular units 1st sem (enrolled) = 6; Previous qualification (grade) = 123.0
+801,3178,0.021792153,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 8; Admission grade = 126.8
+802,2117,0.021737965,Dropout,Low,Curricular units 1st sem (enrolled) = 8; Application order = 5; Displaced = 1
+803,3144,0.021595197,Graduate,Low,Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+804,632,0.021394871,Graduate,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 7; Admission grade = 136.4
+805,3174,0.021348288,Enrolled,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+806,4173,0.021116292,Graduate,Low,Mother's occupation = 7; Curricular units 1st sem (enrolled) = 7; GDP = 2.02
+807,843,0.021107726,Graduate,Low,Curricular units 1st sem (enrolled) = 7; Admission grade = 134.8; Displaced = 1
+808,274,0.020977248,Graduate,Low,Unemployment rate = 16.2; Curricular units 1st sem (enrolled) = 6; Father's qualification = 38
+809,4006,0.020838097,Graduate,Low,Unemployment rate = 16.2; Gender = 1; Curricular units 1st sem (enrolled) = 6
+810,2619,0.020278031,Graduate,Low,Curricular units 1st sem (credited) = 3; Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 6
+811,3930,0.020077275,Graduate,Low,Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 6; Course = 9773
+812,1006,0.020031027,Graduate,Low,Unemployment rate = 12.7; Application order = 6; Curricular units 1st sem (enrolled) = 8
+813,333,0.01985371,Graduate,Low,Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 6; Curricular units 1st sem (evaluations) = 6
+814,3644,0.019726085,Graduate,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 6; Previous qualification (grade) = 121.0
+815,1139,0.019717975,Graduate,Low,Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+816,414,0.019700084,Graduate,Low,GDP = 3.51; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+817,919,0.019600818,Graduate,Low,Age at enrollment = 41; Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 6
+818,3096,0.019453593,Graduate,Low,Age at enrollment = 31; Curricular units 1st sem (enrolled) = 6; Previous qualification (grade) = 120.0
+819,1422,0.01932023,Graduate,Low,GDP = 3.51; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+820,3015,0.019147621,Graduate,Low,Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 7; Admission grade = 133.9
+821,4272,0.019068886,Graduate,Low,Unemployment rate = 12.7; Gender = 1; Curricular units 1st sem (enrolled) = 8
+822,2403,0.01885845,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 8; Displaced = 1
+823,3393,0.018735489,Graduate,Low,GDP = 2.02; Previous qualification (grade) = 121.0; Father's occupation = 9
+824,3945,0.018728066,Graduate,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 6; Previous qualification (grade) = 115.0
+825,446,0.018662667,Graduate,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 7; Admission grade = 127.8
+826,1641,0.01845977,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Displaced = 1; Previous qualification (grade) = 164.0
+827,1614,0.018210964,Graduate,Low,Age at enrollment = 36; Curricular units 1st sem (enrolled) = 6; Previous qualification (grade) = 120.0
+828,144,0.018102145,Graduate,Low,Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+829,2028,0.018057313,Graduate,Low,Curricular units 1st sem (enrolled) = 7; Displaced = 1; Father's occupation = 9
+830,707,0.018023117,Graduate,Low,Curricular units 1st sem (credited) = 17; Age at enrollment = 60; Gender = 1
+831,3906,0.017990163,Graduate,Low,Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 8; Father's occupation = 9
+832,1266,0.017793676,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Unemployment rate = 11.1; Mother's qualification = 38
+833,1909,0.017565727,Graduate,Low,Curricular units 1st sem (enrolled) = 7; Displaced = 1; Admission grade = 137.3
+834,3926,0.01723964,Graduate,Low,Curricular units 1st sem (enrolled) = 8; Admission grade = 138.5; Application order = 5
+835,420,0.017067157,Graduate,Low,GDP = 2.02; Curricular units 1st sem (enrolled) = 7; Admission grade = 126.6
+836,484,0.01686723,Graduate,Low,Curricular units 1st sem (enrolled) = 7; Displaced = 1; Application order = 3
+837,1068,0.016763141,Graduate,Low,Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 7; Displaced = 1
+838,216,0.01662664,Graduate,Low,Application mode = 18; Displaced = 1; Father's qualification = 3
+839,1937,0.016549068,Graduate,Low,Curricular units 1st sem (enrolled) = 7; Admission grade = 130.3; Father's qualification = 38
+840,1981,0.0160987,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Displaced = 1; Application mode = 17
+841,2537,0.015962519,Graduate,Low,Mother's occupation = 7; Curricular units 1st sem (enrolled) = 6; Unemployment rate = 12.4
+842,1256,0.015902527,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Application mode = 17; Displaced = 1
+843,2775,0.015892351,Graduate,Low,Curricular units 1st sem (enrolled) = 8; Displaced = 1; Application order = 4
+844,1406,0.01575052,Graduate,Low,Curricular units 1st sem (enrolled) = 8; Application mode = 18; Displaced = 1
+845,3259,0.015593881,Graduate,Low,Curricular units 1st sem (enrolled) = 7; Admission grade = 132.5; Application mode = 17
+846,852,0.01559266,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Displaced = 1; Father's occupation = 9
+847,3476,0.015442277,Graduate,Low,Debtor = 1; Curricular units 1st sem (credited) = 13; Unemployment rate = 15.5
+848,242,0.015348778,Graduate,Low,Curricular units 1st sem (evaluations) = 5; Displaced = 1; Application order = 2
+849,3753,0.0150939515,Graduate,Low,Curricular units 1st sem (enrolled) = 7; Father's occupation = 9; Application order = 4
+850,3983,0.014335886,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Application mode = 17; Mother's qualification = 38
+851,3271,0.014298754,Graduate,Low,Age at enrollment = 50; Curricular units 1st sem (credited) = 3; Curricular units 1st sem (enrolled) = 9
+852,570,0.01415579,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 6; Father's occupation = 9
+853,3475,0.014115149,Graduate,Low,Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 6; Displaced = 1
+854,3236,0.014075188,Graduate,Low,Displaced = 1; Application mode = 17; Mother's occupation = 4
+855,4044,0.013738205,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Mother's qualification = 38; Application mode = 17
+856,1796,0.013565746,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Displaced = 1; Admission grade = 155.5
+857,2861,0.01355831,Graduate,Low,Curricular units 1st sem (evaluations) = 5; Father's qualification = 3; Mother's occupation = 2
+858,3762,0.013137322,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Displaced = 1; GDP = 2.02
+859,1224,0.012646292,Graduate,Low,Curricular units 1st sem (enrolled) = 8; Mother's occupation = 7; Displaced = 1
+860,1560,0.012359273,Enrolled,Low,Gender = 1; Father's occupation = 4; Curricular units 1st sem (enrolled) = 7
+861,1012,0.012308111,Graduate,Low,Unemployment rate = 12.7; Curricular units 1st sem (evaluations) = 5; Application mode = 17
+862,3379,0.012204383,Graduate,Low,Curricular units 1st sem (enrolled) = 7; Displaced = 1; Application order = 4
+863,3480,0.012197481,Graduate,Low,Gender = 1; Curricular units 1st sem (enrolled) = 8; Inflation rate = -0.8
+864,2942,0.012003163,Graduate,Low,Curricular units 1st sem (credited) = 6; Curricular units 1st sem (enrolled) = 12; GDP = 3.51
+865,3764,0.011866139,Graduate,Low,Curricular units 1st sem (enrolled) = 6; GDP = 2.02; Unemployment rate = 11.1
+866,782,0.011697385,Graduate,Low,Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 7; Admission grade = 156.9
+867,2111,0.010568144,Graduate,Low,Displaced = 1; Curricular units 1st sem (enrolled) = 6; Admission grade = 134.5
+868,2804,0.0103960475,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Displaced = 1; Father's occupation = 9
+869,295,0.010298674,Graduate,Low,Curricular units 1st sem (enrolled) = 8; Father's occupation = 4; Father's qualification = 38
+870,1977,0.010233289,Graduate,Low,Curricular units 1st sem (credited) = 3; Unemployment rate = 13.9; Curricular units 1st sem (enrolled) = 6
+871,2924,0.009961881,Graduate,Low,Age at enrollment = 32; Unemployment rate = 12.7; Curricular units 1st sem (enrolled) = 8
+872,3123,0.009959178,Graduate,Low,Curricular units 1st sem (enrolled) = 7; Displaced = 1; Mother's qualification = 38
+873,3642,0.009218944,Graduate,Low,Curricular units 1st sem (enrolled) = 6; Application mode = 17; Curricular units 1st sem (evaluations) = 6
+874,1984,0.008592885,Graduate,Low,Curricular units 1st sem (enrolled) = 8; Displaced = 1; Previous qualification (grade) = 162.0
+875,2453,0.008368894,Enrolled,Low,Curricular units 1st sem (credited) = 6; Curricular units 1st sem (enrolled) = 12; Gender = 1
+876,667,0.008195453,Graduate,Low,Curricular units 1st sem (credited) = 6; Curricular units 1st sem (enrolled) = 11; Admission grade = 129.1
+877,3059,0.008181956,Graduate,Low,Curricular units 1st sem (enrolled) = 8; Displaced = 1; Application order = 3
+878,905,0.007953265,Graduate,Low,Curricular units 1st sem (enrolled) = 7; Displaced = 1; Application order = 3
+879,450,0.007776731,Graduate,Low,Curricular units 1st sem (enrolled) = 8; Application mode = 18; Displaced = 1
+880,1070,0.0077701877,Graduate,Low,Father's occupation = 4; Curricular units 1st sem (enrolled) = 8; Displaced = 1
+881,3304,0.007107788,Graduate,Low,Curricular units 1st sem (credited) = 3; Curricular units 1st sem (enrolled) = 6; Curricular units 1st sem (evaluations) = 6
+882,252,0.0057985918,Graduate,Low,Previous qualification (grade) = 122.0; Curricular units 1st sem (evaluations) = 6; Mother's qualification = 9
+883,278,0.005424117,Enrolled,Low,Curricular units 1st sem (enrolled) = 7; Admission grade = 142.3; Unemployment rate = 12.4
+884,3457,0.0053976774,Graduate,Low,Unemployment rate = 15.5; Curricular units 1st sem (enrolled) = 6; Father's qualification = 38
+885,291,0.0050833267,Graduate,Low,Unemployment rate = 13.9; Debtor = 1; Curricular units 1st sem (enrolled) = 6
